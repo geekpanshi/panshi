@@ -1,5 +1,6 @@
 #+TITLE: Emacs Configuration
 #+PROPERTY: header-args:emacs-lisp :tangle .emacs.d/init.el
-
+#+AUTHOR: panshishuo
+#+date: <2021-11-10 15:57>
 
 *** 空
