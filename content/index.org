@@ -2,11 +2,9 @@
 #+AUTHOR: panshishuo
 #+date: <2021-11-10 15:57>
 
-* Overview
+** 杂货铺
 
-This is an *example* of a _website_ written with [[https://orgmode.org][Org Mode]]!
+本地文件链接 [[./public/Emacs.org][Emacs configuration]].
 
-Here is a link to my [[./public/Emacs.org][Emacs configuration]].
-
-* Links
-- [[https://weibo.com/u/6726260941][My web]]
+** 链接
+- [[https://weibo.com/u/6726260941][微博]]
