@@ -3,9 +3,9 @@ packages:
   - emacs-nox
 oauth: pages.sr.ht/PAGES:RW
 sources:
-  - https://git.sr.ht/~username/my-org-site
+  - https://git.sr.ht/~panshishuo/my-org-site
 environment:
-  site: username.srht.site
+  site: panshishuo.srht.site
 tasks:
   - build: |
       # Generate site files (make sure to update folder name!)
