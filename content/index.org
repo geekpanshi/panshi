@@ -2,9 +2,9 @@
 #+AUTHOR: panshishuo
 #+date: <2021-11-10 15:57>
 
-** 杂货铺
+*** 杂货铺
 
-本地文件链接 [[./public/Emacs.org][Emacs configuration]].
+1. 关于 [[./public/org_modes.org][Org mode 相关]] 的资料。
 
-** 链接
+*** 链接
 - [[https://weibo.com/u/6726260941][微博]]
