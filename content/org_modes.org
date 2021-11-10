@@ -6,3 +6,5 @@
 
 [[https://orgmode.org/][Org Mode, Your life in plain text]]
 
+[[https://beancount.github.io/docs][Beancount User's Manual]]
+
