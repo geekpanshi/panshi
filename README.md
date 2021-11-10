@@ -1,2 +1,5 @@
 # panshishuo.github.io
-org web site notes
+
+---
+
+[org mode notes root](/public/index.html)
