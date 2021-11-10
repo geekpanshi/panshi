@@ -1,0 +1,20 @@
+image: archlinux
+packages:
+  - emacs-nox
+oauth: pages.sr.ht/PAGES:RW
+sources:
+  - https://git.sr.ht/~username/my-org-site
+environment:
+  site: username.srht.site
+tasks:
+  - build: |
+      # Generate site files (make sure to update folder name!)
+      cd my-org-site
+      ./build.sh
+
+      # Bundle the site
+      cd public
+      tar -czf /home/build/html.tar.gz .
+  - upload: |
+      tar -ztvf html.tar.gz
+      acurl --fail-with-body https://pages.sr.ht/publish/$site -Fcontent=@html.tar.gz
