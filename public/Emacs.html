@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Emacs Configuration</title>
+<meta name="generator" content="Org mode" />
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+</head>
+<body>
+<div id="content">
+<h1 class="title">Emacs Configuration</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org9d3871b">Startup Performance</a></li>
+<li><a href="#org910fe42">Native Compilation</a></li>
+</ul>
+</div>
+</div>
+<p>
+This is an ongoing evolution of my original Emacs configuration files, inspired by a bunch of resources I've found online.
+</p>
+
+<div id="outline-container-org9d3871b" class="outline-2">
+<h2 id="org9d3871b">Startup Performance</h2>
+<div class="outline-text-2" id="text-org9d3871b">
+<p>
+Make startup faster by reducing the frequency of garbage collection and then use a hook to measure Emacs startup time.
+</p>
+
+<p>
+Also, turn on <code>lexical-binding</code> for the init file!
+</p>
+
+<div class="org-src-container">
+<pre class="src src-emacs-lisp">
+<span style="font-weight: bold; font-style: italic;">;; </span><span style="font-weight: bold; font-style: italic;">-*- lexical-binding: t; -*-</span>
+
+<span style="font-weight: bold; font-style: italic;">;; </span><span style="font-weight: bold; font-style: italic;">The default is 800 kilobytes.  Measured in bytes.</span>
+(<span style="font-weight: bold;">setq</span> gc-cons-threshold (* 50 1000 1000))
+
+<span style="font-weight: bold; font-style: italic;">;; </span><span style="font-weight: bold; font-style: italic;">Profile emacs startup</span>
+(add-hook 'emacs-startup-hook
+          (<span style="font-weight: bold;">lambda</span> ()
+            (message <span style="font-style: italic;">"*** Emacs loaded in %s with %d garbage collections."</span>
+                     (format <span style="font-style: italic;">"%.2f seconds"</span>
+                             (float-time
+                              (time-subtract after-init-time before-init-time)))
+                     gcs-done)))
+
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org910fe42" class="outline-2">
+<h2 id="org910fe42">Native Compilation</h2>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.3 (<a href="https://orgmode.org">Org</a> mode 9.1.9)</p>
+<p class="validation"></p>
+</div>
+</body>
+</html>
