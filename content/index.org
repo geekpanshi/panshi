@@ -4,7 +4,7 @@
 
 This is an *example* of a _website_ written with [[https://orgmode.org][Org Mode]]!
 
-Here is a link to my [[./Emacs.org][Emacs configuration]].
+Here is a link to my [[./public/Emacs.org][Emacs configuration]].
 
 * Links
 - [[https://weibo.com/u/6726260941][My web]]
