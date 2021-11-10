@@ -16,7 +16,7 @@ jobs:
         run: sudo apt install emacs-nox --yes
 
       - name: Build the site
-        run: ./build.sh
+        run: ./auto_build.sh
 
       - name: Publish generated content to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.4
