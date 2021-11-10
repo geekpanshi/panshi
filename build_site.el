@@ -5,8 +5,8 @@
 (setq package-archives '(("melpa" . "https://melpa.org/packages/")
                          ("elpa" . "https://elpa.gnu.org/packages/")))
 
-(use-package simple-httpd
-  :ensure t)
+;;(use-package simple-httpd
+;;  :ensure t)
 
 ;; Initialize the package system
 (package-initialize)
