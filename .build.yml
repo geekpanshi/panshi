@@ -3,7 +3,7 @@ packages:
   - emacs-nox
 oauth: pages.sr.ht/PAGES:RW
 sources:
-  - https://git.sr.ht/~panshishuo/my-org-site
+  - https://git.sr.ht/~panshishuo/panshishuo
 environment:
   site: panshishuo.srht.site
 tasks:
