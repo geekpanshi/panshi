@@ -4,7 +4,7 @@
 
 *** 杂货铺
 
-1. 关于 [[./public/org_modes.org][Org mode 相关]] 的资料。
+1. 关于 [[./org_modes.org][Org mode 相关]] 的资料。
 
 *** 链接
 - [[https://weibo.com/u/6726260941][微博]]
