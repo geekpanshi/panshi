@@ -1,5 +1,5 @@
 #+title: 一个使用 org mode 的杂货铺
-#+author: panshishuo
+#+AUTHOR: panshishuo
 #+date: <2021-11-10 15:57>
 
 * Overview
