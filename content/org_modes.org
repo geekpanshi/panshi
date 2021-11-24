@@ -4,8 +4,8 @@
 
 *** 官网信息
 
-1. [[https://orgmode.org/][Org Mode, Your life in plain text]]
+**** 1. [[https://orgmode.org/][Org Mode, Your life in plain text]]
 
-2. [[https://beancount.github.io/docs][Beancount User's Manual]]
+**** 2. [[https://beancount.github.io/docs][Beancount User's Manual]]
 
-3. [[https://github.com/beancount/fava][Fava - web interface for Beancount]]
+**** 3. [[https://github.com/beancount/fava][Fava - web interface for Beancount]]
