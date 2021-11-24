@@ -23,5 +23,13 @@
 
 遭遇危机的社畜，这方便暴露的人性——就是懦弱。不克服懦弱，一切规划都是扯淡。规划的第一要素并不是规划本身完不完美——而是执行力。但是懦弱的人都没有执行力。因为执行需要风险，意淫没有风险。
 
+3. 前端学习之路
+
+3.1 [[https://mp.weixin.qq.com/s/KItesrF9ajWuOGU2SUIK3A][2021 年前端学习路线总结]]
+
+3.2 [[https://github.com/qianguyihao/Web][千古前端图文教程]]
+
+3.3 [[https://github.com/kamranahmedse/developer-roadmap][前端学习路线]]
+
 *** 链接
 - [[https://weibo.com/u/6726260941][微博]]
