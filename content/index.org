@@ -35,3 +35,6 @@
 
 *** 链接
 - [[https://weibo.com/u/6726260941][微博]]
+
+*** NOTES
+- [[https://www.crummy.com/software/BeautifulSoup/][BeautifulSoup]]
