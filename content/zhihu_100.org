@@ -1,6 +1,7 @@
 #+title: Org mode 相关资料
 #+AUTHOR: panshishuo
 #+date: <2021-11-26 18:00>
+#+HTML_HEAD_EXTRA: <style>*{font-family: serif !important}</style>
 
 *** 知乎：100 条简短深刻的神回答
 
