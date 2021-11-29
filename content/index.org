@@ -43,7 +43,7 @@
 - [[https://www.crummy.com/software/BeautifulSoup/][BeautifulSoup]]
 
 *** Insert A picture
-#+ATTR_HTML: :alt HHKB keyborad :title HHKB keyboard :align left
-#+ATTR_HTML: :width 50% :height 50%
+#+ATTR_HTML: :width 200px
+#+attr_latex: :width 200px
 #+RESULTS:
 [[https://www.geekpanshi.com/funny_ideas/pics/002_nomal_key_map.png]]
