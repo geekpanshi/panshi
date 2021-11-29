@@ -44,8 +44,8 @@
 
 *** Insert A picture
 #+CAPTION: Weight space
-#+attr_html: :width 100px
-#+attr_latex: :width 100px
-#+ATTR_HTML: :alt neural network :title Neural network representation :align left
+#+ATTR_HTML: :alt HHKB keyborad :title HHKB keyboard :align left
 #+ATTR_HTML: :width 50% :height 50%
+#+ATTR_HTML: :style background-color: white; border-radius: 8px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+#+RESULTS:
 [[https://www.geekpanshi.com/funny_ideas/pics/002_nomal_key_map.png]]
