@@ -41,3 +41,8 @@
 
 *** NOTES
 - [[https://www.crummy.com/software/BeautifulSoup/][BeautifulSoup]]
+
+*** Insert A picture
+#+attr_html: :width 100px
+#+attr_latex: :width 100px
+[[https://www.geekpanshi.com/funny_ideas/pics/002_nomal_key_map.png]]
