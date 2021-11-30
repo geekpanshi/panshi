@@ -35,7 +35,7 @@
              :publishing-directory "./public"
              :with-author t
              :with-creator t            ;; Include Emacs and Org versions in footer
-             :with-toc nil                ;; Include a table of contents
+             :with-toc t                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
              :time-stamp-file nil)))    ;; Don't include time stamp in file
 
