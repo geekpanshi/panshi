@@ -52,6 +52,7 @@
 	4. 有能力把事做成。
 	四点缺一不可。缺了任何一点都无法成事。所以成事很难。
 	第 2、3 两点看起来最没技术含量，却也是最多人欠缺的。
+- 朋友圈就算热情似火，人们最终还是会选择表现出冷漠。
 
 *** 链接
 - [[https://weibo.com/u/6726260941][微博]]
@@ -59,6 +60,7 @@
 
 *** NOTES
 - [[https://www.crummy.com/software/BeautifulSoup/][BeautifulSoup]]
+- [[http://docs.jinkan.org/docs/jinja2][Python Jinja2 —— Python 模板语言]]
 
 *** Insert A picture
 #+ATTR_HTML: :width 200px
