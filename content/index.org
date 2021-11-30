@@ -6,7 +6,7 @@
 #+HTML_HEAD_EXTRA: <script async type="text/javascript" src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 *** 随笔
-- [./2021/index.org][2021 年随笔]]
+- [[./2021/index.org][2021 年随笔]]
 
 *** 杂货铺
 
