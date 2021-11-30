@@ -1,0 +1,10 @@
+#+title: 2021 年随笔集锦
+#+AUTHOR: panshishuo
+#+date: <2021-11-30 15:57>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/myStyle.css" />
+#+HTML_HEAD_EXTRA: <meta charset="utf-8">
+#+HTML_HEAD_EXTRA: <script async type="text/javascript" src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+**** 随笔列表
+- [[./11/notes.org][2021 年 11 月随笔]]
+- [[./12/notes.org][2021 年 12 月随笔]]
