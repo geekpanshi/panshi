@@ -5,7 +5,7 @@
 #+HTML_HEAD_EXTRA: <meta charset="utf-8">
 #+HTML_HEAD_EXTRA: <script async type="text/javascript" src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-1. 思维导图：XMind，幕布，ProcessOn，知犀
+1. 思维导图：XMind，幕布，ProcessOn，知犀，mindmaster
 
 2. 问卷调查：问卷星，麦客，调查派
 
@@ -23,7 +23,7 @@
 
 9. 手机剪辑：剪映，一闪，必剪，爱剪辑
 
-10. 专业剪辑：Premiere，Final Cut Pro，Vages
+10. 专业剪辑：Premiere，Final Cut Pro，Vegas
 
 11. 视频格式转换：格式工厂，迅捷视频转换器
 
@@ -36,3 +36,18 @@
 15. 图文制作：Zine，锤子便签
 
 16. 文件传输：奶牛快传，AirPortal
+
+17. 录屏软件：Bandicam，EV录屏
+
+18. 人声伴奏分离：RX9
+
+19. 下载工具：
+    - [[https://www.qbittorrent.org/][qbittorrent]]
+    - [[https://motrix.app/zh-CN/][Motrix]]
+    - [[https://lightzhan.xyz/index.php/qdown/][Qdown]]
+    - [[https://xdown.org/][Xdown]]
+    - [[https://www.internetdownloadmanager.com/][IDM]]
+
+20. 公开的密钥分享平台： [[https://pkeytools.azurewebsites.net/ShareKeys][公开的密钥分享平台]]
+
+21. 词典： [[https://wantwords.thunlp.org/][万词王]]
