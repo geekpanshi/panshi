@@ -26,6 +26,8 @@
 
 **** 6. [[./2021/12/common_tools.org][常用工具分享]]
 
+**** 7. [[./linux_cli.org][Linux 命令收藏]]
+
 *** 链接
 - [[https://weibo.com/u/6726260941][微博]]
 - [[https://www.geekpanshi.com/funny_ideas/HHKB.html][HHKB 键盘 笔记]]

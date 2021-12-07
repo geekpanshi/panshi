@@ -1,0 +1,11 @@
+#+title: Linux 命令集锦
+#+AUTHOR: panshishuo
+#+date: <2021-12-0707:57>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/myStyle.css" />
+#+HTML_HEAD_EXTRA: <meta charset="utf-8">
+#+HTML_HEAD_EXTRA: <script async type="text/javascript" src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+**** How to install dig on Debian
+#+BEGIN_SRC sh
+  sudo apt install dnsutils
+#+END_SRC
