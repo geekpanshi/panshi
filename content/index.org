@@ -36,6 +36,9 @@
 - [[https://www.crummy.com/software/BeautifulSoup/][BeautifulSoup]]
 - [[http://docs.jinkan.org/docs/jinja2][Python Jinja2 —— Python 模板语言]]
 
+*** 历史
+- [[./history/index.org][一些历史的演讲、发言]]
+
 *** Insert A picture
 #+ATTR_HTML: :width 200px
 #+attr_latex: :width 200px
