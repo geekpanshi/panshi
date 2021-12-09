@@ -49,10 +49,10 @@
              :auto-sitemap t
              :author "panshishuo"
              :html-link-home "/panshi"
-             :html-link-up "/panshi/first_page.html"
+             :html-link-up "/panshi/index_2.html"
              :sitemap-style list
              :sitemap-title "磐石说"
-             :sitemap-filename "index.org"
+             :sitemap-filename "index_2.org"
              :sitemap-sort-files anti-chronologically
              :sitemap-format-entry org-publish-sitemap-time-entry
              :html-head ,(concat

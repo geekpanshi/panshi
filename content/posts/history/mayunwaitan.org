@@ -1,11 +1,11 @@
-#+title:（历史）马云上海外滩金融论坛演讲全文（无删减）
+#+title: 马云上海外滩金融论坛演讲全文
 #+AUTHOR: panshishuo
 #+date: <2020-10-24 08:57>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/myStyle.css" />
 #+HTML_HEAD_EXTRA: <meta charset="utf-8">
 #+HTML_HEAD_EXTRA: <script async type="text/javascript" src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-**** 马云上海外滩金融论坛演讲全文（无删减）
+**** 马云上海外滩金融论坛演讲全文
 
 2020 年 10 月 23-25 日，中国金融四十人论坛（CF40）联合各组委会成员机构在上海召开第二届外滩金融峰会。峰会主题为“危与机：新格局下的新金融与新经济”。24 日，马云以联合国数字合作高级别小组联合主席、联合国可持续发展目标倡导者的身份进行了演讲。
 
