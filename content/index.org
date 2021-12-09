@@ -5,42 +5,50 @@
 #+HTML_HEAD_EXTRA: <meta charset="utf-8">
 #+HTML_HEAD_EXTRA: <script async type="text/javascript" src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-*** 随笔
+**** 随笔
 - [[./2021/index.org][2021 年随笔]]
 
-*** 杂货铺
+**** TODO 待归类
 
-**** 1. 关于 [[./org_modes.org][Org mode 相关]] 的资料。
+***** 学习技术的建议
+学 TCP/IP，把 Nmap 和 Hping 的手册看一遍。
+学 HTTP，把 Curl 的手册看一遍。
+学 SQL 注入，把 SQLmap 的手册看一遍。
+学 WEB 前端安全，把 BeEF 的手册看一遍。
 
-**** 3. 前端学习之路
+**** 杂货铺
 
-***** 3.1 [[https://mp.weixin.qq.com/s/KItesrF9ajWuOGU2SUIK3A][2021 年前端学习路线总结]]
+***** 1. 关于 [[./org_modes.org][Org mode 相关]] 的资料。
 
-***** 3.2 [[https://github.com/qianguyihao/Web][千古前端图文教程]]
+***** 2. 前端学习之路
 
-***** 3.3 [[https://github.com/kamranahmedse/developer-roadmap][前端学习路线]]
+****** 3.1 [[https://mp.weixin.qq.com/s/KItesrF9ajWuOGU2SUIK3A][2021 年前端学习路线总结]]
 
-**** 4. [[./zhihu_100.org][知乎：100 条简短深刻的神回答]]
+****** 3.2 [[https://github.com/qianguyihao/Web][千古前端图文教程]]
 
-**** 5. [[./datas_slogan.org][数据和政策变化跟踪]]
+****** 3.3 [[https://github.com/kamranahmedse/developer-roadmap][前端学习路线]]
 
-**** 6. [[./2021/12/common_tools.org][常用工具分享]]
+***** 4. [[./zhihu_100.org][知乎：100 条简短深刻的神回答]]
 
-**** 7. [[./linux_cli.org][Linux 命令收藏]]
+***** 5. [[./datas_slogan.org][数据和政策变化跟踪]]
 
-*** 链接
+***** 6. [[./2021/12/common_tools.org][常用工具分享]]
+
+***** 7. [[./linux_cli.org][Linux 命令收藏]]
+
+**** 链接
 - [[https://www.geekpanshi.com/funny_ideas/HHKB.html][HHKB 键盘 笔记]]
 - [[https://www.allhistory.com/][全历史]]
 - [[https://github.com/byoungd/English-level-up-tips-for-Chinese][英语学习指南]]
 
-*** NOTES
+**** NOTES
 - [[https://www.crummy.com/software/BeautifulSoup/][BeautifulSoup]]
 - [[http://docs.jinkan.org/docs/jinja2][Python Jinja2 —— Python 模板语言]]
 
-*** 历史
+**** 历史
 - [[./history/index.org][一些历史的演讲、发言]]
 
-*** Insert A picture
+**** Insert A picture
 #+ATTR_HTML: :width 200px
 #+attr_latex: :width 200px
 #+RESULTS:
