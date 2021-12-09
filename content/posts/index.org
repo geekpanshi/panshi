@@ -16,13 +16,6 @@
 - [[./2021/12/common_tools.org][常用工具分享]]
 - [[./linux_cli.org][Linux 命令收藏]]
 
-**** TODO 待归类
-***** 学习技术的建议
-- 学 TCP/IP，把 Nmap 和 Hping 的手册看一遍。
-- 学 HTTP，把 Curl 的手册看一遍。
-- 学 SQL 注入，把 SQLmap 的手册看一遍。
-- 学 WEB 前端安全，把 BeEF 的手册看一遍。
-
 **** 外链 —— 技术相关
 ***** 前端学习之路
 - [[https://mp.weixin.qq.com/s/KItesrF9ajWuOGU2SUIK3A][2021 年前端学习路线总结]]
@@ -32,14 +25,22 @@
 - [[https://www.crummy.com/software/BeautifulSoup/][BeautifulSoup]]
 - [[http://docs.jinkan.org/docs/jinja2][Python Jinja2 —— Python 模板语言]]
 
-**** 链接 —— 文章
+**** 外链 —— 文章
 - [[https://github.com/byoungd/English-level-up-tips-for-Chinese][英语学习指南]]
 - [[https://www.geekpanshi.com/funny_ideas/HHKB.html][HHKB 键盘 笔记]]
 
-**** 链接 —— 工具
+**** 外链 —— 工具
 - [[https://www.allhistory.com/][全历史]]
 
-**** 键盘指法示例
+**** TODO 待归类
+***** 学习技术的建议
+- 学 TCP/IP，把 Nmap 和 Hping 的手册看一遍。
+- 学 HTTP，把 Curl 的手册看一遍。
+- 学 SQL 注入，把 SQLmap 的手册看一遍。
+- 学 WEB 前端安全，把 BeEF 的手册看一遍。
+
+**** 图集
+***** 键盘指法示例
 #+ATTR_HTML: :width 300px
 #+attr_latex: :width 300px
 #+RESULTS:
