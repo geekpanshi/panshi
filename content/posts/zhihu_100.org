@@ -1,4 +1,4 @@
-#+title: Org mode 相关资料
+#+title: 知乎：100 条简短深刻的神回答
 #+AUTHOR: panshishuo
 #+date: <2021-11-26 18:00>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/myStyle.css" />
