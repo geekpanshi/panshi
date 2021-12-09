@@ -15,3 +15,5 @@
 **** 3. [[https://github.com/beancount/fava][Fava - web interface for Beancount]]
 
 **** 4. [[https://www.costflow.io/docs/syntax][Costflow Syntax —— beancount syntax]]
+
+**** 5. [[https://www.emacsdocs.org/][Emacs Docs]

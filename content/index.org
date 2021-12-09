@@ -29,8 +29,9 @@
 **** 7. [[./linux_cli.org][Linux 命令收藏]]
 
 *** 链接
-- [[https://weibo.com/u/6726260941][微博]]
 - [[https://www.geekpanshi.com/funny_ideas/HHKB.html][HHKB 键盘 笔记]]
+- [[https://www.allhistory.com/][全历史]]
+- [[https://byoungd.gitbook.io/english-level-up-tips/][英语学习指南]]
 
 *** NOTES
 - [[https://www.crummy.com/software/BeautifulSoup/][BeautifulSoup]]
