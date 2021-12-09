@@ -27,19 +27,30 @@
 
 ;; Define the publishing project
 (setq org-publish-project-alist
-      (list
-       (list "org-site:main"
+      `(("org-post"
              :recursive t
-             :base-directory "./content"
-             :base-extension "css\\|js\\|png\\|gif\\|pdf\\|mp3\\|ogg\\|swf\\|org"
-             :publishing-function 'org-html-publish-to-html
+             :base-directory "./content/posts"
+             :base-extension "org"
+             :publishing-function org-html-publish-to-html
              :publishing-directory "./public"
-             :with-author t
              :with-creator t            ;; Include Emacs and Org versions in footer
              :with-toc t                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
-             :time-stamp-file nil)))    ;; Don't include time stamp in file
-
+             :time-stamp-file nil       ;; Don't include time stamp in file
+             :with-author t)
+        ("org-static"
+             :base-directory "./content/static"
+             :base-extension "css\\|js"
+             :publishing-directory "./public"
+             :recursive t
+             :publishing-function org-publish-attachment)
+        ("org-images"
+             :base-directory "./content/posts/img"
+             :base-extension "jpg\\|jpeg\\|png\\|gif"
+             :publishing-directory "./public/img"
+             :recursive t
+             :publishing-function org-publish-attachment)
+        ("org" :components ("org-post" "org-images"))))
 ;; Generate the site output
 (org-publish-all t)
 
