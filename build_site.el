@@ -48,8 +48,8 @@
              :auto-preamble t
              :auto-sitemap t
              :author "panshishuo"
-             :html-link-home "/panshi/first_page.html"
-             :html-link-up "/panshi"
+             :html-link-home "/panshi"
+             :html-link-up "/panshi/first_page.html"
              :sitemap-style list
              :sitemap-title "磐石说"
              :sitemap-filename "index.org"
