@@ -31,6 +31,7 @@
        (list "org-site:main"
              :recursive t
              :base-directory "./content"
+             :base-extension "css\\|js\\|png\\|gif\\|pdf\\|mp3\\|ogg\\|swf\\|org"
              :publishing-function 'org-html-publish-to-html
              :publishing-directory "./public"
              :with-author t
