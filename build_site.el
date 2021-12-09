@@ -23,8 +23,7 @@
 (setq org-html-validation-link nil            ;; Don't show validation link
       org-html-head-include-scripts nil       ;; Use our own scripts
       org-html-head-include-default-style nil ;; Use our own styles
-      org-html-head ,(concat "<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\"/>\n"
-                             "<script src=\"https://hm.baidu.com/hm.js?4dbc75a8d627e17a8714e4c8b2e9afa8\"></script>"))
+      org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />")
 
 ;; Define the publishing project
 (setq org-publish-project-alist
@@ -43,7 +42,9 @@
              :sitemap-title "磐石说"
              :sitemap-filename "index.org"
              :sitemap-sort-files anti-chronologically
-             :sitemap-format-entry org-publish-sitemap-time-entry
+             :html-head ,(concat
+                          "<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\"/>\n"
+                          "<script src=\"https://hm.baidu.com/hm.js?4dbc75a8d627e17a8714e4c8b2e9afa8\"></script>")
              :with-author t)
         ("org-static"
              :base-directory "./content/static"
