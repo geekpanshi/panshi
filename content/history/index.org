@@ -21,4 +21,4 @@
 #+ATTR_HTML: :width 200px
 #+attr_latex: :width 200px
 #+RESULTS:
-[[./img/01.jpg]]
+[[https://raw.githubusercontent.com/geekpanshi/panshi/master/content/img/01.jpg]]
