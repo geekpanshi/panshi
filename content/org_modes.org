@@ -16,4 +16,4 @@
 
 **** 4. [[https://www.costflow.io/docs/syntax][Costflow Syntax —— beancount syntax]]
 
-**** 5. [[https://www.emacsdocs.org/][Emacs Docs]
+**** 5. [[https://www.emacsdocs.org/][Emacs Docs]]
