@@ -9,5 +9,5 @@
 - [2021.11.26] [[file:zhihu_100.org][知乎：100 条简短深刻的神回答]]
 - [2021.11.10] [[file:org_modes.org][Org mode 相关资料]]
 - [2021.11.09] [[file:first_page.org][磐石说的杂货铺]]
-- [2020.10.24] [[file:history/mayunwaitan.org][[历史] 马云上海外滩金融论坛演讲全文（无删减）]]
-- [2011.07.01] [[file:history/index.org][[历史] 一些历史的演讲、发言]]
+- [2020.10.24] [[file:history/mayunwaitan.org][（历史）马云上海外滩金融论坛演讲全文（无删减）]]
+- [2011.07.01] [[file:history/index.org][（历史）一些历史的演讲、发言]]

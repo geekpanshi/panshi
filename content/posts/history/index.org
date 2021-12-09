@@ -1,4 +1,4 @@
-#+title: [历史] 一些历史的演讲、发言
+#+title:（历史）一些历史的演讲、发言
 #+AUTHOR: panshishuo
 #+date: <2011-07-01 08:57>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/myStyle.css" />

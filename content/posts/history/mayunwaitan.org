@@ -1,4 +1,4 @@
-#+title: [历史] 马云上海外滩金融论坛演讲全文（无删减）
+#+title:（历史）马云上海外滩金融论坛演讲全文（无删减）
 #+AUTHOR: panshishuo
 #+date: <2020-10-24 08:57>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/myStyle.css" />
