@@ -5,6 +5,10 @@
 #+HTML_HEAD_EXTRA: <meta charset="utf-8">
 #+HTML_HEAD_EXTRA: <script async type="text/javascript" src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+**** 前言（限 10 条内）
+- “人生总是这么痛苦吗？还是只有小时候这样？”“总是如此。”
+- 问错了问题，就不可能找到对的答案。应该在问什么问题上多下功夫。
+
 **** 站内索引
 - [[./2021/index.org][2021 年随笔]]
 - [[./history/index.org][一些历史的演讲、发言]]
