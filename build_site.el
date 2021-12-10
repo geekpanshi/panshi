@@ -56,6 +56,7 @@
              :sitemap-sort-files anti-chronologically
              :sitemap-format-entry org-publish-sitemap-time-entry
              :html-head ,(concat
+                          "<link rel=\"icon\" href=\"/panshi/favicon.ico\" type=\"image/vnd.microsoft.icon\"/>"
                           "<link rel=\"stylesheet\" type=\"text/css\" href=\"https://gongzhitaao.org/orgcss/org.css\"/>")
              :with-author t)
         ("org-static"
