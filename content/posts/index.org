@@ -2,7 +2,7 @@
 #+AUTHOR: panshishuo
 #+date: <2021-11-09 15:57>
 
-**** DONE 友情提示
+**** 友情提示
 - 年轻只有拼，人生没有捷径可走。
 - 问：“人生总是这么痛苦吗？还是只有小时候这样？” 答：“总是如此。”
 - 问错了问题，就不可能找到对的答案。应该在问什么问题上多下功夫。
@@ -34,6 +34,13 @@
 **** 外链 —— 工具
 - [[https://www.allhistory.com/][全历史]]
 
+**** 图集
+***** 键盘指法示例
+#+ATTR_HTML: :width 300px
+#+attr_latex: :width 300px
+#+RESULTS:
+[[https://www.geekpanshi.com/funny_ideas/pics/002_nomal_key_map.png]]
+
 **** TODO 待归类
 ***** 学习技术的建议
 - 学 TCP/IP，把 Nmap 和 Hping 的手册看一遍。
@@ -44,9 +51,3 @@
 ***** 建议
 - API 的“指令类参数”，一定要和其它参数分割开来，最好是独立的参数，并且只能接受常量。比如格式化串API的格式参数，不接受变量。
 
-**** 图集
-***** 键盘指法示例
-#+ATTR_HTML: :width 300px
-#+attr_latex: :width 300px
-#+RESULTS:
-[[https://www.geekpanshi.com/funny_ideas/pics/002_nomal_key_map.png]]
