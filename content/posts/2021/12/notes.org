@@ -1,7 +1,6 @@
 #+title: 2021 年 12 月随笔
 #+AUTHOR: panshishuo
 #+date: <2021-11-30 17:24>
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/myStyle.css" />
 #+HTML_HEAD_EXTRA: <meta charset="utf-8">
 #+HTML_HEAD_EXTRA: <script async type="text/javascript" src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 

@@ -56,7 +56,7 @@
              :sitemap-sort-files anti-chronologically
              :sitemap-format-entry org-publish-sitemap-time-entry
              :html-head ,(concat
-                          "<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\"/>\n"
+                          "<link rel=\"stylesheet\" type=\"text/css\" href=\"https://gongzhitaao.org/orgcss/org.css\"/>"
                           "<script src=\"https://hm.baidu.com/hm.js?4dbc75a8d627e17a8714e4c8b2e9afa8\"></script>")
              :with-author t)
         ("org-static"
