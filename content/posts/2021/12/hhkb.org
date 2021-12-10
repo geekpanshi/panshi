@@ -1,0 +1,71 @@
+#+title: HHKB 键盘笔记
+#+AUTHOR: panshishuo
+#+date: <2021-12-10 19:24>
+
+***** [[https://item.jd.com/62603602537.html][HHKB 键盘]] 简介
+#+BEGIN_QUOTE
+Happy Hacking Keyboard（缩写为 HHKB）是由株式会社 PFU（富士通的全资子公司）所经销的计算机键盘。本键盘由和田英一和 PFU 研究所共同开发，于 1996 年 12 月开始销售。
+#+END_QUOTE
+
+***** 使用技巧
+
+1. 可以使用快捷键 ~Fn + Tab~ 切换输入法，长按 ~Fn + Tab~ 锁定或解锁大写（ ~Mac OS > 10.12~ 版本）。
+2. 在 windows 系统下 退格键 的使用，需要打开 ~dip 设置 sw3~ 开关。
+3. =Fn + Control + 1/2/3/4= 可以切换到配对的不同设备， =Fn + Control + 0= 切换到有线模式。
+   #+CAPTION: HHKB 键盘布局
+   #+ATTR_HTML: :style width:600px
+   [[file:../../img/hhkb/003_hhkb.png]]
+
+***** HHKB 指法键位
+
+#+CAPTION: HHKB 指法键位示意图
+#+ATTR_HTML: :style width:600px
+[[file:../../img/hhkb/004_hhkb.png]]
+
+***** HHKB Dip 设置
+=sw1= 、 =sw2= 组合设置系统
+
+=sw3= 开启将 =delete 键= 设置为 =backspace 键=
+
+=sw4= 开启后将 =左 ◇ 键= 设置为 =FN 键=
+
+=sw5= 开启后 =ALT 键= 和 =◇ 键= 互换
+
+=sw6= 是否唤醒电脑
+
+#+CAPTION: HHKB 键盘 Dip 设置 sw1、sw2 组合
+#+NAME: tab:hhkb-dip
+| sw1  | sw2  | Mode                         |
+|----- +----- +------------------------------|
+| OFF  | OFF  | HHK（Windows/Android）       |
+| ON   | OFF  | Lite Ext. （Windows/Android）|
+| OFF  | ON   | Macintosh                    |
+| ON   | ON   | --（未使用）                 |
+
+***** 我的 HHKB 改键
+我的 dip 设置 —— macOS  =010111= 、 Windows =010001= 。
+
+#+CAPTION: 我的 HHKB HYBRID TYPE-S 改键（for macOS）
+#+ATTR_HTML: :style width:600px
+[[file:../../img/hhkb/005_hhkb-myconfig.jpg]]
+
+***** HHKB professional hybrid 说明书
+[[https://raw.githubusercontent.com/xingangshi/funny_ideas/master/docs/HHKB%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf][HHKB说明书.pdf]]
+
+***** 备注
+- 普通键盘指法键位图
+  #+CAPTION: 普通键盘指法键位图
+  #+ATTR_HTML: :style width:600px
+  [[file:../../img/hhkb/002_nomal_key_map.png]]
+
+- [[https://happyhackingkb.com/download][HHKB 官方 Keymap Tool、固件和手册下载]]
+
+- [[https://www.wstx.com/p-24844][为你讲解 HHKB 背后的秘密]]
+
+- ANSI 104 美国键盘：打字机区 61 键、功能键区 13 键、指令导航区 13 键，小键盘区 17 键。
+
+  #+CAPTION: ANSI 104 键盘布局
+  #+ATTR_HTML: :style width:600px
+  [[file:../../img/hhkb/006-ANSI_104美国键盘.png]]
+
+- [[https://item.jd.com/62603602537.html][HHKB 购买链接]]
