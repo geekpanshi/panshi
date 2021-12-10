@@ -1,5 +1,5 @@
-@import "normalize.css";
-@import "htmlize.css";
+@import "/panshi/normalize.css";
+@import "/panshi/htmlize.css";
 
 $sans: Helvetica, sans-serif;
 $serif: Georgia, serif;
