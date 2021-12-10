@@ -48,16 +48,16 @@
              :auto-preamble t
              :auto-sitemap t
              :author "panshishuo"
-             :html-link-home "/panshi"
-             :html-link-up "/panshi/index_2.html"
+             :html-link-home "/index.html"
+             :html-link-up "/index_2.html"
              :sitemap-style list
              :sitemap-title "磐石说的杂货铺"
              :sitemap-filename "index_2.org"
              :sitemap-sort-files anti-chronologically
              :sitemap-format-entry org-publish-sitemap-time-entry
              :html-head ,(concat
-                          "<link rel=\"icon\" href=\"/panshi/favicon.ico\" type=\"image/vnd.microsoft.icon\"/>"
-                          "<link rel=\"stylesheet\" type=\"text/css\" href=\"/panshi/style.css\"/>")
+                          "<link rel=\"icon\" href=\"/favicon.ico\" type=\"image/vnd.microsoft.icon\"/>"
+                          "<link rel=\"stylesheet\" type=\"text/css\" href=\"/style.css\"/>")
              :with-author t)
         ("org-static"
              :base-directory "./content/static"
