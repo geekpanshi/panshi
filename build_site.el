@@ -57,7 +57,7 @@
              :sitemap-format-entry org-publish-sitemap-time-entry
              :html-head ,(concat
                           "<link rel=\"icon\" href=\"/panshi/favicon.ico\" type=\"image/vnd.microsoft.icon\"/>"
-                          "<link rel=\"stylesheet\" type=\"text/css\" href=\"/panshi/org.css\"/>")
+                          "<link rel=\"stylesheet\" type=\"text/css\" href=\"/panshi/style.css\"/>")
              :with-author t)
         ("org-static"
              :base-directory "./content/static"
