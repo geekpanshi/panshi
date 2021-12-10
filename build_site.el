@@ -51,13 +51,13 @@
              :html-link-home "/panshi"
              :html-link-up "/panshi/index_2.html"
              :sitemap-style list
-             :sitemap-title "磐石说"
+             :sitemap-title "磐石说的杂货铺"
              :sitemap-filename "index_2.org"
              :sitemap-sort-files anti-chronologically
              :sitemap-format-entry org-publish-sitemap-time-entry
              :html-head ,(concat
                           "<link rel=\"icon\" href=\"/panshi/favicon.ico\" type=\"image/vnd.microsoft.icon\"/>"
-                          "<link rel=\"stylesheet\" type=\"text/css\" href=\"https://gongzhitaao.org/orgcss/org.css\"/>")
+                          "<link rel=\"stylesheet\" type=\"text/css\" href=\"/panshi/org.css\"/>")
              :with-author t)
         ("org-static"
              :base-directory "./content/static"

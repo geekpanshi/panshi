@@ -1,4 +1,4 @@
-#+TITLE: 磐石说
+#+TITLE: 磐石说的杂货铺
 
 - [2021.12.10] [[file:2021/12/hhkb.org][HHKB 键盘笔记]]
 - [2021.12.10] [[file:2021/chaogu_shudan.org][炒股书单推荐]]
