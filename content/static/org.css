@@ -1,5 +1,5 @@
-@import "normalize";
-@import "htmlize";
+@import "normalize.css";
+@import "htmlize.css";
 
 $sans: Helvetica, sans-serif;
 $serif: Georgia, serif;
