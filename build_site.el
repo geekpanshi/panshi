@@ -37,9 +37,9 @@
       `(("org-post"
              :recursive t
              :base-directory "./content/posts"
-             :base-extension "org"
              :publishing-function org-html-publish-to-html
              :publishing-directory "./public"
+             :base-extension "org"
              :exclude "sitemap.org"
              :with-creator t            ;; Include Emacs and Org versions in footer
              :with-toc t                ;; Include a table of contents
@@ -56,8 +56,7 @@
              :sitemap-sort-files anti-chronologically
              :sitemap-format-entry org-publish-sitemap-time-entry
              :html-head ,(concat
-                          "<link rel=\"stylesheet\" type=\"text/css\" href=\"https://gongzhitaao.org/orgcss/org.css\"/>"
-                          "<script src=\"https://hm.baidu.com/hm.js?4dbc75a8d627e17a8714e4c8b2e9afa8\"></script>")
+                          "<link rel=\"stylesheet\" type=\"text/css\" href=\"https://gongzhitaao.org/orgcss/org.css\"/>")
              :with-author t)
         ("org-static"
              :base-directory "./content/static"
@@ -71,7 +70,13 @@
              :publishing-directory "./public/img"
              :recursive t
              :publishing-function org-publish-attachment)
-        ("org" :components ("org-post" "org-images"))))
+        ("org-icon"
+             :base-directory "./content/posts"
+             :base-extension "ico"
+             :publishing-directory "./public"
+             :recursive t
+             :publishing-function org-publish-attachment)
+        ("org" :components ("org-post" "org-images" "org-icon"))))
 ;; Generate the site output
 (org-publish-all t)
 
