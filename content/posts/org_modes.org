@@ -5,9 +5,9 @@
 **** 官网信息
 
 #+BEGIN_QUOTE
-Org Mode, Your life in plain text
+Org Mode — Your life in plain text
 
-A GNU Emacs major mode for keeping notes, authoring documents, computational notebooks, literate programming, maintaining to-do lists, planning projects, and more — in a fast and effective plain text system
+A GNU Emacs major mode for keeping notes, authoring documents, computational notebooks, literate programming, maintaining to-do lists, planning projects, and more — in a fast and effective plain text system.
 #+END_QUOTE
 
 ***** 1. [[https://orgmode.org/][Org Mode, Your life in plain text]]
