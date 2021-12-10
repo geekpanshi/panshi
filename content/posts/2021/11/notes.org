@@ -1,8 +1,6 @@
 #+title: 2021 年 11 月随笔
 #+AUTHOR: panshishuo
 #+date: <2021-11-30 15:57>
-#+HTML_HEAD_EXTRA: <meta charset="utf-8">
-#+HTML_HEAD_EXTRA: <script async type="text/javascript" src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 **** 随想
 - 真正能缓解焦虑的，却是总想偷懒不做的事情。

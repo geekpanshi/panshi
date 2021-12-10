@@ -1,8 +1,6 @@
 #+title: 常用工具分享
 #+AUTHOR: panshishuo
 #+date: <2021-12-01 18:15>
-#+HTML_HEAD_EXTRA: <meta charset="utf-8">
-#+HTML_HEAD_EXTRA: <script async type="text/javascript" src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 1. 思维导图：XMind，幕布，ProcessOn，知犀，mindmaster
 
