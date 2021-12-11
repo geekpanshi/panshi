@@ -2382,14 +2382,14 @@ body {
     width: 95%;
     margin: 2% auto;
     font-size: 14px;
-    line-height: 1.4em;
-    font-family: Georgia,serif;
+    line-height: 1.7em;
+    font-family: Droid Sans Fallback;
     color: #333
 }
 
 @media screen and (min-width:600px) {
     body {
-        font-size: 18px
+        font-size: 16px
     }
 }
 
@@ -2499,7 +2499,7 @@ img {
 h1,h2,h3,h4,h5,h6 {
     color: #a5573e;
     line-height: 1em;
-    font-family: Helvetica,sans-serif
+    font-family: Segoe UI
 }
 
 h1,h2,h3 {
@@ -2512,23 +2512,23 @@ h4,h5,h6 {
 
 @media screen and (min-width:600px) {
     h1 {
-        font-size: 2em
+        font-size: 1.7em
     }
 
     h2 {
-        font-size: 1.5em
-    }
-
-    h3 {
         font-size: 1.3em
     }
 
+    h3 {
+        font-size: 1.2em
+    }
+
     h1,h2,h3 {
-        line-height: 1.4em
+        line-height: 1.1em
     }
 
     h4,h5,h6 {
-        font-size: 1.1em
+        font-size: 1.0em
     }
 }
 

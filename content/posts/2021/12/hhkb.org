@@ -12,15 +12,18 @@ Happy Hacking Keyboard（缩写为 HHKB）是由株式会社 PFU（富士通的�
 1. 可以使用快捷键 ~Fn + Tab~ 切换输入法，长按 ~Fn + Tab~ 锁定或解锁大写（ ~Mac OS > 10.12~ 版本）。
 2. 在 windows 系统下 退格键 的使用，需要打开 ~dip 设置 sw3~ 开关。
 3. =Fn + Control + 1/2/3/4= 可以切换到配对的不同设备， =Fn + Control + 0= 切换到有线模式。
-   #+CAPTION: HHKB 键盘布局
-   #+ATTR_HTML: :style width:600px
-   [[file:../../img/hhkb/003_hhkb.png]]
+#+BEGIN_QUOTE
+#+CAPTION: HHKB 键盘布局
+#+ATTR_HTML: :style width:600px
+[[file:../../img/hhkb/003_hhkb.png]]
+#+END_QUOTE
 
 ***** HHKB 指法键位
-
+#+BEGIN_QUOTE
 #+CAPTION: HHKB 指法键位示意图
 #+ATTR_HTML: :style width:600px
 [[file:../../img/hhkb/004_hhkb.png]]
+#+END_QUOTE
 
 ***** HHKB Dip 设置
 =sw1= 、 =sw2= 组合设置系统
@@ -63,9 +66,10 @@ Happy Hacking Keyboard（缩写为 HHKB）是由株式会社 PFU（富士通的�
 - [[https://www.wstx.com/p-24844][为你讲解 HHKB 背后的秘密]]
 
 - ANSI 104 美国键盘：打字机区 61 键、功能键区 13 键、指令导航区 13 键，小键盘区 17 键。
-
-  #+CAPTION: ANSI 104 键盘布局
-  #+ATTR_HTML: :style width:600px
-  [[file:../../img/hhkb/006-ANSI_104美国键盘.png]]
+#+BEGIN_QUOTE
+#+CAPTION: ANSI 104 键盘布局
+#+ATTR_HTML: :style width:600px
+[[file:../../img/hhkb/006-ANSI_104美国键盘.png]]
+#+END_QUOTE
 
 - [[https://item.jd.com/62603602537.html][HHKB 购买链接]]
