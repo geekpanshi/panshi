@@ -15,8 +15,8 @@
 - 问：“人生总是这么痛苦吗？还是只有小时候这样？” 答：“总是如此。”
 - 走向成功的每一步，其实都是我们坚持的刻意为之。
 - 人生而无知，但是并不愚蠢，是教育（洗脑）使人愚蠢。
-- 两个相爱的人，应该用你的爱去交换另一个人的爱。爱情才永远鲜活，谁都不可能要别人的全部。
-- 警惕：消费习惯或欲望远高于其合法收入的人，都相当危险。
+- 在不损伤自己的前提下，帮助更多能够帮助到的人：利他。​​
+- 我们需要警惕：消费习惯或欲望远高于其合法收入的人，都相当危险。
 
 **** 站内索引
 ***** 随笔系列
@@ -28,6 +28,7 @@
 - [[./zhihu_100.org][知乎：100 条简短深刻的神回答]]
 - [[./2021/12/hhkb.org][HHKB 键盘笔记]]
 - [[./nous/01_rabies.org][狂犬病科普]]
+- [[./article/001_luosu.org][罗素 —— 自由思想的十诫]]
 ***** 技术相关
 - [[./org_modes.org][Org mode 相关资料]]
 - [[./2021/12/common_tools.org][常用工具分享]]
@@ -49,17 +50,19 @@
 ***** 文章
 - [[https://github.com/byoungd/English-level-up-tips-for-Chinese][英语学习指南]]
 
-
 ***** 工具
 - [[https://www.allhistory.com/][全历史]]
 - [[https://www.conservethesound.de/][经典旧物的声音]]
+- [[http://www.nlc.cn/pcab/zy/zhgj_zyk/][中华古籍资源库]]
 
 **** 图集
-***** 键盘指法示例
-#+ATTR_HTML: :width 300px
-#+attr_latex: :width 300px
-#+RESULTS:
-[[https://www.geekpanshi.com/funny_ideas/pics/002_nomal_key_map.png]]
+***** 邓宁-克鲁格效应
+邓克效应或达克效应（DK effect），是一种认知偏差，能力欠缺的人有一种虚幻的自我优越感，错误地认为自己比真实情况更加优秀。
+#+BEGIN_QUOTE
+#+CAPTION: 邓宁-克鲁格效应
+#+ATTR_HTML: :style width:600px
+[[file:./img/index/000-达克效应.png]]
+#+END_QUOTE
 
 **** TODO 待归类
 ***** 学习技术的建议

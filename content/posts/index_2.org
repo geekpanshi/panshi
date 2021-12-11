@@ -1,5 +1,6 @@
 #+TITLE: 磐石说的杂货铺
 
+- [2021.12.11] [[file:article/001_luosu.org][罗素 —— 自由思想的十诫]]
 - [2021.12.11] [[file:nous/01_rabies.org][狂犬病科普]]
 - [2021.12.10] [[file:2021/12/hhkb.org][HHKB 键盘笔记]]
 - [2021.12.10] [[file:2021/chaogu_shudan.org][炒股书单推荐]]
