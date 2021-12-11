@@ -27,6 +27,7 @@
 ***** 杂记经验
 - [[./zhihu_100.org][知乎：100 条简短深刻的神回答]]
 - [[./2021/12/hhkb.org][HHKB 键盘笔记]]
+- [[./nous/01_rabies.org][狂犬病科普]]
 ***** 技术相关
 - [[./org_modes.org][Org mode 相关资料]]
 - [[./2021/12/common_tools.org][常用工具分享]]

@@ -47,20 +47,22 @@ Happy Hacking Keyboard（缩写为 HHKB）是由株式会社 PFU（富士通的�
 
 ***** 我的 HHKB 改键
 我的 dip 设置 —— macOS  =010111= 、 Windows =010001= 。
-
+#+BEGIN_QUOTE
 #+CAPTION: 我的 HHKB HYBRID TYPE-S 改键（for macOS）
 #+ATTR_HTML: :style width:600px
 [[file:../../img/hhkb/005_hhkb-myconfig.jpg]]
+#+END_QUOTE
 
 ***** HHKB professional hybrid 说明书
 [[https://raw.githubusercontent.com/xingangshi/funny_ideas/master/docs/HHKB%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf][HHKB说明书.pdf]]
 
 ***** 备注
 - 普通键盘指法键位图
-  #+CAPTION: 普通键盘指法键位图
-  #+ATTR_HTML: :style width:600px
-  [[file:../../img/hhkb/002_nomal_key_map.png]]
-
+#+BEGIN_QUOTE
+#+CAPTION: 普通键盘指法键位图
+#+ATTR_HTML: :style width:600px
+[[file:../../img/hhkb/002_nomal_key_map.png]]
+#+END_QUOTE
 - [[https://happyhackingkb.com/download][HHKB 官方 Keymap Tool、固件和手册下载]]
 
 - [[https://www.wstx.com/p-24844][为你讲解 HHKB 背后的秘密]]
