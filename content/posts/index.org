@@ -44,9 +44,12 @@
 - [[https://mp.weixin.qq.com/s/KItesrF9ajWuOGU2SUIK3A][2021 年前端学习路线总结]]
 - [[https://github.com/qianguyihao/Web][千古前端图文教程]]
 - [[https://github.com/kamranahmedse/developer-roadmap][前端学习路线]]
+
+
 ****** 未归类
 - [[https://www.crummy.com/software/BeautifulSoup/][BeautifulSoup]]
 - [[http://docs.jinkan.org/docs/jinja2][Python Jinja2 —— Python 模板语言]]
+- [[https://mirror.tuna.tsinghua.edu.cn/help/termux/][清华大学 Termux 镜像使用帮助]]
 
 ***** 文章
 - [[https://github.com/byoungd/English-level-up-tips-for-Chinese][英语学习指南]]
