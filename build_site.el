@@ -34,6 +34,7 @@
 
 ;; HTML模板目录
 (defvar *site-template-directory* "content/templates")
+(setq org-html-preamble (read-html-template "preamble.html"))
 
 (defun read-html-template (template-file)
   (with-temp-buffer
@@ -58,8 +59,8 @@
              :auto-preamble t
              :auto-sitemap t
              :author "panshishuo"
-             :html-link-home "/panshi"
-             :html-link-up "/panshi/index_2.html"
+             ;;:html-link-home "/panshi"
+             ;;:html-link-up "/panshi/index_2.html"
              :sitemap-style list
              :sitemap-title "磐石说的杂货铺"
              :sitemap-filename "index_2.org"
