@@ -1,0 +1,10 @@
+#+title: 图片合集
+#+AUTHOR: panshishuo
+#+date: <2021-1-15 22:57>
+
+***** 2022 年年历
+#+BEGIN_QUOTE
+#+CAPTION: 2022 年年历
+#+ATTR_HTML: :style width:1024px
+[[file:../../img/index/2022_calc.png]]
+#+END_QUOTE

@@ -71,6 +71,7 @@
 - [[https://nav.guidebook.top/][数字生活指南]]
 - [[https://wiki.kiwix.org/wiki/Main_Page/zh-cn][kiwix ，离线版的维基百科]]
 - [[https://gallerix.asia/][网上世界名画 16 万多幅]]
+- [[https://digicol.dpm.org.cn/][故宫博物院数字文物库]]
 
 **** 图集
 ***** 邓宁-克鲁格效应
