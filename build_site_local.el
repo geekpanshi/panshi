@@ -55,15 +55,15 @@
              :with-creator t            ;; Include Emacs and Org versions in footer
              :with-toc t                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
-             :time-stamp-file nil       ;; Don't include time stamp in file
+             :time-stamp-file t         ;; Don't include time stamp in file
              :auto-preamble t
              :auto-sitemap t
              :author "panshishuo"
              ;;:html-link-home nil ;;"/index.html"
-             ;;:html-link-up  nil ;; "/index_2.html"
+             ;;:html-link-up  nil ;; "/sitemap.html"
              :sitemap-style list
              :sitemap-title "磐石说的杂货铺"
-             :sitemap-filename "index_2.org"
+             :sitemap-filename "sitemap.org"
              :sitemap-sort-files anti-chronologically
              :sitemap-format-entry org-publish-sitemap-time-entry
              :html-head ,(concat

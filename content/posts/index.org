@@ -1,8 +1,6 @@
 #+title: 磐石说的杂货铺
 #+AUTHOR: panshishuo
 #+date: <2021-11-09 15:57>
-#+HTML: Literal HTML code for export
-
 
 **** 友情提示
 #+BEGIN_QUOTE
