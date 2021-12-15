@@ -32,6 +32,16 @@
              (org-publish-find-date entry project))
             (org-publish-sitemap-default-entry entry style project)))
 
+;; HTML模板目录
+(defvar *site-template-directory* "content/templates")
+
+(defun read-html-template (template-file)
+  (with-temp-buffer
+    (insert-file-contents (concat *site-template-directory* "/" template-file))
+    (buffer-string)))
+
+(setq org-html-postamble (read-html-template "postamble.html"))
+
 ;; Define the publishing project
 (setq org-publish-project-alist
       `(("org-post"

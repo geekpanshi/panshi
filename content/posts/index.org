@@ -103,15 +103,3 @@
 别贪心，我们不可能什么都有，也别灰心，我们不可能什么也没有。
 #+END_QUOTE
 -- 2021.04.27
------
-#+BEGIN_EXPORT html
-<script src="https://utteranc.es/client.js"
-        repo="geekpanshi/apc"
-        issue-term="pathname"
-        label="apc"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-#+END_EXPORT
------
