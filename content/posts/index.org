@@ -38,6 +38,7 @@
 ***** 事件数据
 - [[./history/index.org][一些历史的演讲、发言]]
 - [[./datas_slogan.org][数据和政策变化跟踪]]
+- [[./nous/03_985_Motto.org][39 所 985 大学校训名单]]
 
 **** 外链
 ***** 技术
@@ -46,10 +47,17 @@
 - [[https://github.com/qianguyihao/Web][千古前端图文教程]]
 - [[https://github.com/kamranahmedse/developer-roadmap][前端学习路线]]
 
+****** 自学编程
+- [[https://pkuflyingpig.github.io/pku-cs-self-learning/][CS 自学指南]]
+- [[https://missing-semester-cn.github.io/][计算机教育中缺失的一课]]
+- [https://github.com/kelthuzadx/EffectiveModernCppChinese][《Effective Modern C++ 》翻译]]
+
 ****** 未归类
 - [[https://www.crummy.com/software/BeautifulSoup/][BeautifulSoup]]
 - [[http://docs.jinkan.org/docs/jinja2][Python Jinja2 —— Python 模板语言]]
 - [[https://mirror.tuna.tsinghua.edu.cn/help/termux/][清华大学 Termux 镜像使用帮助]]
+- [[https://www.pyinstaller.org/][python 打包成可执行程序的工具]]
+- [[https://forge.huihoo.com/projects/erlang/news][值得关注的 BEAM 语言]]
 
 ***** 文章
 - [[https://github.com/byoungd/English-level-up-tips-for-Chinese][英语学习指南]]
