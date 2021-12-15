@@ -34,7 +34,6 @@
 
 ;; HTML模板目录
 (defvar *site-template-directory* "content/templates")
-(setq org-html-preamble (read-html-template "preamble.html"))
 
 (defun read-html-template (template-file)
   (with-temp-buffer
@@ -42,6 +41,7 @@
     (buffer-string)))
 
 (setq org-html-postamble (read-html-template "postamble.html"))
+(setq org-html-preamble (read-html-template "preamble.html"))
 
 ;; Define the publishing project
 (setq org-publish-project-alist
