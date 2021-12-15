@@ -1,12 +1,13 @@
 #+TITLE: 磐石说的杂货铺
 
+- [2021.12.15] [[file:nous/03_985_Motto.org][39 所 985 大学校训名单]]
 - [2021.12.14] [[file:nous/02_some_tech.org][一些必须知道的常识]]
-- [2021.12.12] [[file:linux_cli.org][Linux 命令集锦]]
 - [2021.12.12] [[file:2021/12/nongcunyanglao.org][农村养老及保险购买]]
 - [2021.12.11] [[file:article/001_luosu.org][罗素 —— 自由思想的十诫]]
 - [2021.12.11] [[file:nous/01_rabies.org][狂犬病科普]]
 - [2021.12.10] [[file:2021/12/hhkb.org][HHKB 键盘笔记]]
 - [2021.12.10] [[file:2021/chaogu_shudan.org][炒股书单推荐]]
+- [2021.12.07] [[file:linux_cli.org][Linux 命令集锦]]
 - [2021.12.01] [[file:2021/12/common_tools.org][常用工具分享]]
 - [2021.11.30] [[file:2021/12/notes.org][2021 年 12 月随笔]]
 - [2021.11.30] [[file:2021/index.org][2021 年随笔集锦]]
