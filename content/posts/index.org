@@ -63,15 +63,16 @@
 - [[https://github.com/byoungd/English-level-up-tips-for-Chinese][英语学习指南]]
 
 ***** 工具
+- [[https://digicol.dpm.org.cn/][故宫博物院数字文物库]]
 - [[https://www.allhistory.com/][全历史]]
-- [[https://www.conservethesound.de/][经典旧物的声音]]
+- [[https://gallerix.asia/][网上世界名画 16 万多幅]]
 - [[http://www.nlc.cn/pcab/zy/zhgj_zyk/][中华古籍资源库]]
 - [[http://www.shiren.org/][中国诗人资料馆]]
 - [[http://bzdt.ch.mnr.gov.cn/][标准地图服务]]
+- [[https://www.conservethesound.de/][经典旧物的声音]]
 - [[https://nav.guidebook.top/][数字生活指南]]
 - [[https://wiki.kiwix.org/wiki/Main_Page/zh-cn][kiwix ，离线版的维基百科]]
-- [[https://gallerix.asia/][网上世界名画 16 万多幅]]
-- [[https://digicol.dpm.org.cn/][故宫博物院数字文物库]]
+- [[https://www.calendarpedia.com/][日历打印 1]]  [[https://www.calendar.best/][2]]  [[https://7calendar.com/cn/][3]]
 
 **** 图集
 ***** 邓宁-克鲁格效应
@@ -83,14 +84,16 @@
 #+END_QUOTE
 
 **** TODO 待归类
-***** 学习技术的建议
-- 学 TCP/IP，把 Nmap 和 Hping 的手册看一遍。
-- 学 HTTP，把 Curl 的手册看一遍。
-- 学 SQL 注入，把 SQLmap 的手册看一遍。
-- 学 WEB 前端安全，把 BeEF 的手册看一遍。
-
-***** 建议
-- API 的“指令类参数”，一定要和其它参数分割开来，最好是独立的参数，并且只能接受常量。比如格式化串API的格式参数，不接受变量。
+***** TODO 分离出工具类的单独页面
+***** TODO 完成 2021 年读书荐书
+***** TODO 技术学习建议
+1. 学习技术的建议
+    - 学 TCP/IP，把 Nmap 和 Hping 的手册看一遍。
+    - 学 HTTP，把 Curl 的手册看一遍。
+    - 学 SQL 注入，把 SQLmap 的手册看一遍。
+    - 学 WEB 前端安全，把 BeEF 的手册看一遍。
+2. 建议
+    - API 的“指令类参数”，一定要和其它参数分割开来，最好是独立的参数，并且只能接受常量。比如格式化串API的格式参数，不接受变量。
 
 **** 共勉
 最近看到一段话，莫名鼓励了我，希望也鼓励了你。
