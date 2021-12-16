@@ -42,6 +42,7 @@
 
 (setq org-html-preamble (read-html-template "preamble.html"))
 (setq org-html-postamble (read-html-template "postamble.html"))
+(setq org-export-default-language "zh-CN")
 
 ;; Define the publishing project
 (setq org-publish-project-alist
