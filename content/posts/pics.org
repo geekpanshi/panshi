@@ -8,3 +8,10 @@
 #+ATTR_HTML: :style width:1024px
 [[file:./img/index/2022_calc.png]]
 #+END_QUOTE
+
+***** 知识的量变和质变
+#+BEGIN_QUOTE
+#+CAPTION: 知识的进化
+#+ATTR_HTML: :style width:600px
+[[file:./img/pics/study.jpg]]
+#+END_QUOTE

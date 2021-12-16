@@ -74,7 +74,7 @@
 - [[https://wiki.kiwix.org/wiki/Main_Page/zh-cn][kiwix ，离线版的维基百科]]
 - [[https://www.calendarpedia.com/][日历打印 1]]  [[https://www.calendar.best/][2]]  [[https://7calendar.com/cn/][3]]
 
-**** 图集
+**** [[./pics.org][图片合集]]
 ***** 邓宁-克鲁格效应
 邓克效应或达克效应（DK effect），是一种认知偏差，能力欠缺的人有一种虚幻的自我优越感，错误地认为自己比真实情况更加优秀。
 #+BEGIN_QUOTE
