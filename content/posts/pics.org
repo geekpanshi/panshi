@@ -15,3 +15,10 @@
 #+ATTR_HTML: :style width:600px
 [[file:./img/pics/study.jpg]]
 #+END_QUOTE
+
+***** 知识的类型划分
+#+BEGIN_QUOTE
+#+CAPTION: 知识的类型划分
+#+ATTR_HTML: :style width:600px
+[[file:./img/pics/knowleges_types.jpg]]
+#+END_QUOTE
