@@ -5,7 +5,7 @@
 ***** 2022 年年历
 #+BEGIN_QUOTE
 #+CAPTION: 2022 年年历
-#+ATTR_HTML: :style width:1024px
+#+ATTR_HTML: :style width:600px
 [[file:./img/index/2022_calc.png]]
 #+END_QUOTE
 
@@ -21,4 +21,25 @@
 #+CAPTION: 知识的类型划分
 #+ATTR_HTML: :style width:600px
 [[file:./img/pics/knowleges_types.jpg]]
+#+END_QUOTE
+
+***** 提肛小助手
+#+BEGIN_QUOTE
+#+CAPTION: 提肛小助手
+#+ATTR_HTML: :style width:600px
+[[file:./img/pics/tigang.gif]]
+#+END_QUOTE
+
+***** 学历和能力
+#+BEGIN_QUOTE
+#+CAPTION: 学历和能力
+#+ATTR_HTML: :style width:600px
+[[file:./img/pics/xueli_nengli.jpg]]
+#+END_QUOTE
+
+***** 开源项目的真实情况
+#+BEGIN_QUOTE
+#+CAPTION: 开源项目的真实情况
+#+ATTR_HTML: :style width:600px
+[[file:./img/pics/os_prj.jpg]]
 #+END_QUOTE

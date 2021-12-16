@@ -40,8 +40,8 @@
     (insert-file-contents (concat *site-template-directory* "/" template-file))
     (buffer-string)))
 
-(setq org-html-postamble (read-html-template "postamble.html"))
 (setq org-html-preamble (read-html-template "preamble.html"))
+(setq org-html-postamble (read-html-template "postamble.html"))
 
 ;; Define the publishing project
 (setq org-publish-project-alist
@@ -59,8 +59,8 @@
              :auto-preamble t
              :auto-sitemap t
              :author "panshishuo"
-             ;;:html-link-home "/panshi"
-             ;;:html-link-up "/panshi/sitemap.html"
+             ;;:html-link-home nil ;; "/panshi"
+             ;;:html-link-up nil ;; "/panshi/sitemap.html"
              :sitemap-style list
              :sitemap-title "磐石说的杂货铺"
              :sitemap-filename "sitemap.org"

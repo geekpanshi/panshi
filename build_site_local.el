@@ -59,8 +59,8 @@
              :auto-preamble t
              :auto-sitemap t
              :author "panshishuo"
-             ;;:html-link-home nil ;;"/index.html"
-             ;;:html-link-up  nil ;; "/sitemap.html"
+             ;;:html-link-home nil ;; "/panshi"
+             ;;:html-link-up nil ;; "/panshi/sitemap.html"
              :sitemap-style list
              :sitemap-title "磐石说的杂货铺"
              :sitemap-filename "sitemap.org"
