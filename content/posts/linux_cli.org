@@ -4,5 +4,16 @@
 
 **** How to install dig on Debian
 #+BEGIN_SRC sh
-  sudo apt install dnsutils
+sudo apt install dnsutils
+#+END_SRC
+
+**** Win10 计算文件 md5
+Win10 下 PowerShell 或 命令行 计算文件 MD5
+#+BEGIN_SRC sh
+CertUtil -hashfile <path to file> MD5
+#+END_SRC
+
+Windows 系统 命令行 查看帮助
+#+BEGIN_SRC sh
+CertUtil /?
 #+END_SRC

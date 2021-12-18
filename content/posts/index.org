@@ -61,6 +61,7 @@
 
 ****** 开发工具
 - [[https://geekflare.com/online-compiler][在线编译器 20 种语言的代码]]
+- [[https://pythontutor.com/][可视化执行代码（Java、C、C++、JavaScript and Ruby）]]
 
 ***** 文章
 - [[https://github.com/byoungd/English-level-up-tips-for-Chinese][英语学习指南]]
