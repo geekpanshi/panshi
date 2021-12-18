@@ -17,3 +17,17 @@ Windows 系统 命令行 查看帮助
 #+BEGIN_SRC sh
 CertUtil /?
 #+END_SRC
+
+**** 50 个 Linux 常用命令
+
+#+CAPTION: 50 个 Linux 常用命令
+#+NAME: tab:linux
+| 1       | 2     | 3      | 4    | 5       | 6     | 7      |
+|---------+-------+--------+------+---------+-------+--------|
+| whoami  | man   | clear  | pwd  | ls      | cd    | mkdir  |
+| touch   | rmdir | rm     | open | mv      | cp    | head   |
+| tail    | date  | cat    | less | echo    | wc    | piping |
+| sort    | uniq  | diff   | find | grep    | du    | df     |
+| history | ps    | top    | kill | killall | jobs  | fg     |
+| bg      | gzip  | gunzip | tar  | nano    | alias | xargs  |
+| ln      | who   | su     | sudo | passwd  | chown | chmod  |
