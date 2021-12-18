@@ -59,10 +59,13 @@
 - [[https://www.pyinstaller.org/][python 打包成可执行程序的工具]]
 - [[https://forge.huihoo.com/projects/erlang/news][值得关注的 BEAM 语言]]
 
+****** 开发工具
+- [[https://geekflare.com/online-compiler][在线编译器 20 种语言的代码]]
+
 ***** 文章
 - [[https://github.com/byoungd/English-level-up-tips-for-Chinese][英语学习指南]]
 
-***** 工具
+***** 知识库
 - [[https://digicol.dpm.org.cn/][故宫博物院数字文物库]]
 - [[https://www.allhistory.com/][全历史]]
 - [[https://gallerix.asia/][网上世界名画 16 万多幅]]
