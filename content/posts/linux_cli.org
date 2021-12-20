@@ -19,7 +19,6 @@ CertUtil /?
 #+END_SRC
 
 **** 50 个 Linux 常用命令
-
 #+CAPTION: 50 个 Linux 常用命令
 #+NAME: tab:linux
 | 1       | 2     | 3      | 4    | 5       | 6     | 7      |

@@ -1,5 +1,6 @@
 #+TITLE: 磐石说的杂货铺
 
+- [2021.12.20] [[file:about_books.org][读书荐书]]
 - [2021.12.16] [[file:pics.org][图片合集]]
 - [2021.12.15] [[file:nous/03_985_Motto.org][39 所 985 大学校训名单]]
 - [2021.12.14] [[file:nous/02_some_tech.org][一些必须知道的常识]]
