@@ -47,6 +47,8 @@
 - [[./nous/03_985_Motto.org][39 所 985 大学校训名单]]
 - [[./article/001_luosu.org][罗素 —— 自由思想的十诫]]
 - [[./article/002_hushi_problem.org][胡适：问题与主义]]
+- [[./history/birth_population.org][中国历年出生人口（1949 —— 2020）]]
+- [[./history/number_of_graduates.org][中国历年高校毕业人数（1978 —— 2021）]]
 
 
 **** 外链

@@ -1,6 +1,8 @@
 #+TITLE: 磐石说的杂货铺
 
-- [2021.12.20] [[file:article/002_hushi_problem.org][胡适：问题与主义]]
+- [2021.12.21] [[file:history/number_of_graduates.org][中国历年高校毕业人数（1978 —— 2021）]]
+- [2021.12.21] [[file:history/birth_population.org][中国历年出生人口（1949 —— 2020）]]
+- [2021.12.20] [[file:article/002_hushi_problem.org][问题与主义论战]]
 - [2021.12.20] [[file:about_books.org][读书荐书]]
 - [2021.12.16] [[file:pics.org][图片合集]]
 - [2021.12.15] [[file:nous/03_985_Motto.org][39 所 985 大学校训名单]]
