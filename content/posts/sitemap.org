@@ -1,5 +1,6 @@
 #+TITLE: 磐石说的杂货铺
 
+- [2021.12.23] [[file:nous/04_dk_effect.org][磐石说的杂货铺]]
 - [2021.12.21] [[file:history/number_of_graduates.org][中国历年高校毕业人数（1978 —— 2021）]]
 - [2021.12.21] [[file:history/birth_population.org][中国历年出生人口（1949 —— 2020）]]
 - [2021.12.20] [[file:article/002_hushi_problem.org][问题与主义论战]]
