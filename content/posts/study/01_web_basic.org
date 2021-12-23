@@ -1,0 +1,64 @@
+#+title: web 学习相关
+#+AUTHOR: panshishuo
+#+date: <2021-12-23 18:09>
+
+***** web 前端学习之路
+#+BEGIN_SRC sh
+Basics of CS
+   ↓
+HTML
+   ↓
+CSS
+   ↓
+JavaScript
+   ↓
+Version Control - Git
+   ↓
+React
+   ↓
+Tailwind CSS
+   ↓
+Jest
+   ↓
+TypeScript
+   ↓
+Next
+   ↓
+GraphQL
+#+END_SRC
+
+***** web 后端学习之路
+#+BEGIN_SRC sh
+Basics of CS
+   ↓
+HTML/CSS
+   ↓
+Git
+   ↓
+JavaScript
+   ↓
+Ruby/Python/Rust/PHP
+   ↓
+MySQL/MongoDB
+   ↓
+APIs (REST, JWT...）
+   ↓
+Web Security
+   ↓
+Learn modern frameworks
+#+END_SRC
+
+***** web3 学习之路
+#+BEGIN_SRC sh
+Basics of CS
+   ↓
+Basics of Blockchain
+   ↓
+Front End Development → React.js
+   ↓
+Interact With The Blockchain →  Ethers.js
+   ↓
+Blockchain Language →  Solidity
+   ↓
+Build project
+#+END_SRC
