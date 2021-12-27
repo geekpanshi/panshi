@@ -47,8 +47,8 @@
 - [[./linux_cli.org][Linux 命令收藏]]
 
 ***** 文章数据
-- [[./history/index.org][一些历史的演讲、发言]]
 - [[./datas_slogan.org][数据和政策变化跟踪]]
+- [[./history/index.org][一些历史的演讲、发言]]
 - [[./nous/03_985_Motto.org][39 所 985 大学校训名单]]
 - [[./article/001_luosu.org][罗素 —— 自由思想的十诫]]
 - [[./article/002_hushi_problem.org][胡适：问题与主义]]
