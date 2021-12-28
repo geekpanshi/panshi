@@ -85,7 +85,7 @@
              :publishing-function org-publish-attachment)
         ("org-icon"
              :base-directory "./content/posts"
-             :base-extension "ico"
+             :base-extension "ico\\|html\\|xml"
              :publishing-directory "./public"
              :recursive t
              :publishing-function org-publish-attachment)
