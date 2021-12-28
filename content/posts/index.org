@@ -91,6 +91,8 @@
 - [[https://www.ncpa-classic.com/h5/index.shtml][国家大剧院]]
 - [[http://bzdt.ch.mnr.gov.cn/][标准地图服务]]
 - [[http://read.nlc.cn/thematDataSearch/toGujiIndex][中国国家图书馆 中国国家数字图书馆]]
+- [[https://cnkgraph.com][知识图谱]]
+- [[https://sou-yun.cn/][搜韵-诗词门户网站]]
 
 ***** 工具类
 - [[https://www.conservethesound.de/][经典旧物的声音]]
