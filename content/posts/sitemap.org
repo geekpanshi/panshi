@@ -1,5 +1,7 @@
 #+TITLE: 磐石说的杂货铺
 
+- [2021.12.28] [[file:pics.org][图片合集]]
+- [2021.12.28] [[file:nous/05_about_body.org][关于人体的常识]]
 - [2021.12.23] [[file:study/01_web_basic.org][web 学习相关]]
 - [2021.12.23] [[file:history/rr_gaomi_jiefa.org][人民日报：不告密不揭发是道德底线]]
 - [2021.12.23] [[file:nous/04_dk_effect.org][邓宁-克鲁格效应]]
@@ -7,7 +9,6 @@
 - [2021.12.21] [[file:history/birth_population.org][中国历年出生人口（1949 —— 2020）]]
 - [2021.12.20] [[file:article/002_hushi_problem.org][问题与主义论战]]
 - [2021.12.20] [[file:about_books.org][读书荐书]]
-- [2021.12.16] [[file:pics.org][图片合集]]
 - [2021.12.15] [[file:nous/03_985_Motto.org][39 所 985 大学校训名单]]
 - [2021.12.14] [[file:nous/02_some_tech.org][一些必须知道的常识]]
 - [2021.12.12] [[file:2021/12/nongcunyanglao.org][农村养老及保险购买]]

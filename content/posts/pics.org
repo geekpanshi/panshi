@@ -43,3 +43,17 @@
 #+ATTR_HTML: :style width:600px
 [[file:./img/pics/os_prj.jpg]]
 #+END_QUOTE
+
+***** 止损的重要性
+#+BEGIN_QUOTE
+#+CAPTION: 止损的重要性
+#+ATTR_HTML: :style width:600px
+[[file:./img/pics/stepping_away.png]]
+#+END_QUOTE
+
+***** 标准普尔家庭配置象限图
+#+BEGIN_QUOTE
+#+CAPTION: 标准普尔家庭配置象限图
+#+ATTR_HTML: :style width:600px
+[[file:./img/pics/puer.png]]
+#+END_QUOTE
