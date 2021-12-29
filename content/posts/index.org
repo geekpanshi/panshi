@@ -111,9 +111,9 @@
 - [[https://shimo.im][不擅长写 文档撰写，推荐 石墨文档]]
 - [[https://www.yinxiang.com][不擅长做 文档收藏，推荐 印象笔记]]
 - [[https://www.dida365.com][不擅长做 计划管理，推荐 滴答清单（TODO）]]
-- [[https://www.xmind.cn][不擅长做 思维导图，推荐 XMind]]
-- [[http://www.ankichina.net][不擅长做 助记卡片，推荐 Anki]]
-- [[https://www.airtable.com][不擅长做 电子表格，推荐 Airtable]]
+- [[https://www.xmind.cn][不擅长做 思维导图，推荐 XMind]]
+- [[http://www.ankichina.net][不擅长做 助记卡片，推荐 Anki]]
+- [[https://www.airtable.com][不擅长做 电子表格，推荐 Airtable]]
 
 **** [[./pics.org][图片合集]]
 ***** 邓宁-克鲁格效应
@@ -128,7 +128,6 @@
 ***** 分离出工具类的单独页面
 1. [[https://www.loudreader.com/][在线电子书阅读工具]]
 
-***** 完成 2021 年读书荐书
 ***** 技术学习建议
 1. 学习技术的建议
     - 学 TCP/IP，把 Nmap 和 Hping 的手册看一遍。
