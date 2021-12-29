@@ -40,6 +40,7 @@
 - [[./2021/12/hhkb.org][HHKB 键盘笔记]]
 - [[./nous/01_rabies.org][狂犬病科普]]
 - [[./2021/12/nongcunyanglao.org][农村养老及保险购买]]
+- [[./nous/05_about_body.org][关于人体的常识]]
 
 ***** 技术相关
 - [[./org_modes.org][Org mode 相关资料]]
