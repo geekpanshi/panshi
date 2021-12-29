@@ -46,12 +46,16 @@
 - [[./2021/12/common_tools.org][常用工具分享]]
 - [[./linux_cli.org][Linux 命令收藏]]
 
-***** 文章数据
-- [[./datas_slogan.org][数据和政策变化跟踪]]
+***** 经典文集
 - [[./history/index.org][一些历史的演讲、发言]]
-- [[./nous/03_985_Motto.org][39 所 985 大学校训名单]]
-- [[./article/001_luosu.org][罗素 —— 自由思想的十诫]]
 - [[./article/002_hushi_problem.org][胡适：问题与主义]]
+- [[./article/001_luosu.org][罗素：自由思想的十诫]]
+- [[./article/003_luosu_1959.org][罗素 1959 年寄语：关于智慧、关于道德]]
+- [[./article/004_seven_muse.org][殷海光：七种谬误]]
+
+***** 数据信息
+- [[./datas_slogan.org][数据和政策变化跟踪]]
+- [[./nous/03_985_Motto.org][39 所 985 大学校训名单]]
 - [[./history/birth_population.org][中国历年出生人口（1949 —— 2020）]]
 - [[./history/number_of_graduates.org][中国历年高校毕业人数（1978 —— 2021）]]
 
@@ -99,6 +103,15 @@
 - [[https://nav.guidebook.top/][数字生活指南]]
 - [[https://wiki.kiwix.org/wiki/Main_Page/zh-cn][kiwix ，离线版的维基百科]]
 - [[https://www.calendarpedia.com/][日历打印 1]]  [[https://www.calendar.best/][2]]  [[https://7calendar.com/cn/][3]]
+
+***** 笔记工具推荐
+- [[https://flomoapp.com][不擅长做 灵感收集，推荐 浮墨笔记]]
+- [[https://shimo.im][不擅长写 文档撰写，推荐 石墨文档]]
+- [[https://www.yinxiang.com][不擅长做 文档收藏，推荐 印象笔记]]
+- [[https://www.dida365.com][不擅长做 计划管理，推荐 滴答清单（TODO）]]
+- [[https://www.xmind.cn][不擅长做 思维导图，推荐 XMind]]
+- [[http://www.ankichina.net][不擅长做 助记卡片，推荐 Anki]]
+- [[https://www.airtable.com][不擅长做 电子表格，推荐 Airtable]]
 
 **** [[./pics.org][图片合集]]
 ***** 邓宁-克鲁格效应

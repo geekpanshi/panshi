@@ -2,7 +2,6 @@
 #+AUTHOR: panshishuo
 #+date: <2021-12-11 16:09>
 
-***** 自由思想的十诫
 #+BEGIN_QUOTE
 摘自 伯特兰德·罗素《自传》
 #+END_QUOTE

@@ -1,5 +1,7 @@
 #+TITLE: 磐石说的杂货铺
 
+- [2021.12.29] [[file:article/003_luosu_1959.org][罗素 1959 年寄语：关于智慧、关于道德]]
+- [2021.12.29] [[file:article/004_seven_muse.org][殷海光总结的七种谬误]]
 - [2021.12.28] [[file:pics.org][图片合集]]
 - [2021.12.28] [[file:nous/05_about_body.org][关于人体的常识]]
 - [2021.12.23] [[file:study/01_web_basic.org][web 学习相关]]
