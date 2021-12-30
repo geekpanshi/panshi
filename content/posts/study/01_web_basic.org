@@ -1,4 +1,4 @@
-#+title: web 学习相关
+#+title: web 开发学习相关
 #+AUTHOR: panshishuo
 #+date: <2021-12-23 18:09>
 
@@ -61,4 +61,19 @@ Interact With The Blockchain →  Ethers.js
 Blockchain Language →  Solidity
    ↓
 Build project
+#+END_SRC
+
+***** [[https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript][哈佛大学免费 web 开发课程]]
+#+BEGIN_SRC sh
+课程内容包括
+
+1. HTML，CSS
+2. Git
+3. Python
+4. Django
+5. SQL， Models，和 Migrations
+6. JavaScript
+7. User Interfaces
+8. Testing， CI/CD
+9. Scalability and Security
 #+END_SRC
