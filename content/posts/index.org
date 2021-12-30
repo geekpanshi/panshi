@@ -38,7 +38,7 @@
 
 ***** 杂记经验
 - [[./nous/06_nobody_write_moment.org][为什么现在太多的人不愿意发朋友圈了]]
-- [[./zhihu_100.org][知乎：100 条简短深刻的神回答]]
+- [[./zhihu_100.org][某乎百问简短深刻神回答]]
 - [[./2021/12/hhkb.org][HHKB 键盘笔记]]
 - [[./nous/01_rabies.org][狂犬病科普]]
 - [[./2021/12/nongcunyanglao.org][农村养老及保险购买]]
