@@ -1,0 +1,24 @@
+#+title: 知识库和工具推荐
+#+AUTHOR: panshishuo
+#+date: <2021-12-31 06:09>
+
+***** 知识库
+- [[https://digicol.dpm.org.cn/][故宫博物院数字文物库]]
+- [[https://www.allhistory.com/][全历史]]
+- [[https://gallerix.asia/][网上世界名画 16 万多幅]]
+- [[http://www.nlc.cn/pcab/zy/zhgj_zyk/][中华古籍资源库]]
+- [[http://www.shiren.org/][中国诗人资料馆]]
+- [[https://www.ncpa-classic.com/h5/index.shtml][国家大剧院]]
+- [[http://bzdt.ch.mnr.gov.cn/][标准地图服务]]
+- [[http://read.nlc.cn/thematDataSearch/toGujiIndex][中国国家图书馆 中国国家数字图书馆]]
+- [[https://cnkgraph.com][知识图谱]]
+- [[https://sou-yun.cn/][搜韵-诗词门户网站]]
+
+***** 工具类
+- [[https://www.conservethesound.de/][经典旧物的声音]]
+- [[https://nav.guidebook.top/][数字生活指南]]
+- [[https://wiki.kiwix.org/wiki/Main_Page/zh-cn][kiwix ，离线版的维基百科]]
+- [[https://www.calendarpedia.com/][日历打印 1]]  [[https://www.calendar.best/][2]]  [[https://7calendar.com/cn/][3]] [[http://www.5adanci.com/][4]]
+
+***** 在线工具
+- [[https://www.loudreader.com/][在线电子书阅读工具]]

@@ -23,10 +23,13 @@
 
 - 如果你面前的道路非常清晰，你恐怕是在属于别人的路上。
 
+
+**** TODO 待归类
+
 **** 站内索引
 ***** 读书荐书
-- [[./2022_about_books.org][2022 年读书荐书]]
-- [[./about_books.org][读书荐书之 2021 年第 4/4 更]]
+- [[./dairy/2022_about_books.org][2022 年读书荐书]]
+- [[./dairy/about_books.org][读书荐书之 2021 年第 4/4 更]]
 
 ***** 随笔系列
 - [[./nous/02_some_tech.org][一些必须知道的常识]]
@@ -38,16 +41,17 @@
 
 ***** 杂记经验
 - [[./nous/06_nobody_write_moment.org][为什么现在太多的人不愿意发朋友圈了]]
-- [[./zhihu_100.org][某乎百问简短深刻神回答]]
+- [[./2021/12/zhihu_100.org][某乎百问简短深刻神回答]]
 - [[./2021/12/hhkb.org][HHKB 键盘笔记]]
 - [[./nous/01_rabies.org][狂犬病科普]]
 - [[./2021/12/nongcunyanglao.org][农村养老及保险购买]]
 - [[./nous/05_about_body.org][关于人体的常识]]
 
 ***** 技术相关
-- [[./org_modes.org][Org mode 相关资料]]
-- [[./2021/12/common_tools.org][常用工具分享]]
-- [[./linux_cli.org][Linux 命令收藏]]
+- [[./study/00_skil_thinks.org][技术学习的思考和总结]]
+- [[./study/01_web_basic.org][web 开发学习相关]]
+- [[./study/org_modes.org][Org mode 相关资料]]
+- [[./study/linux_cli.org][Linux 命令收藏]]
 
 ***** 经典文集
 - [[./history/index.org][一些历史的演讲、发言]]
@@ -61,6 +65,11 @@
 - [[./nous/03_985_Motto.org][39 所 985 大学校训名单]]
 - [[./history/birth_population.org][中国历年出生人口（1949 —— 2020）]]
 - [[./history/number_of_graduates.org][中国历年高校毕业人数（1978 —— 2021）]]
+
+***** 工具推荐
+- [[./tools/01_about_notes.org][日程管理思考和软件推荐]]
+- [[./tools/02_tools_knowledge.org][知识库和工具推荐]]
+- [[./tools/03_common_tools.org][常用工具分享]]
 
 **** 外链
 ***** 技术
@@ -89,33 +98,6 @@
 ***** 文章
 - [[https://github.com/byoungd/English-level-up-tips-for-Chinese][英语学习指南]]
 
-***** 知识库
-- [[https://digicol.dpm.org.cn/][故宫博物院数字文物库]]
-- [[https://www.allhistory.com/][全历史]]
-- [[https://gallerix.asia/][网上世界名画 16 万多幅]]
-- [[http://www.nlc.cn/pcab/zy/zhgj_zyk/][中华古籍资源库]]
-- [[http://www.shiren.org/][中国诗人资料馆]]
-- [[https://www.ncpa-classic.com/h5/index.shtml][国家大剧院]]
-- [[http://bzdt.ch.mnr.gov.cn/][标准地图服务]]
-- [[http://read.nlc.cn/thematDataSearch/toGujiIndex][中国国家图书馆 中国国家数字图书馆]]
-- [[https://cnkgraph.com][知识图谱]]
-- [[https://sou-yun.cn/][搜韵-诗词门户网站]]
-
-***** 工具类
-- [[https://www.conservethesound.de/][经典旧物的声音]]
-- [[https://nav.guidebook.top/][数字生活指南]]
-- [[https://wiki.kiwix.org/wiki/Main_Page/zh-cn][kiwix ，离线版的维基百科]]
-- [[https://www.calendarpedia.com/][日历打印 1]]  [[https://www.calendar.best/][2]]  [[https://7calendar.com/cn/][3]] [[http://www.5adanci.com/][4]]
-
-***** 笔记工具推荐
-- [[https://flomoapp.com][不擅长做 灵感收集，推荐 浮墨笔记]]
-- [[https://shimo.im][不擅长写 文档撰写，推荐 石墨文档]]
-- [[https://www.yinxiang.com][不擅长做 文档收藏，推荐 印象笔记]]
-- [[https://www.dida365.com][不擅长做 计划管理，推荐 滴答清单（TODO）]]
-- [[https://www.xmind.cn][不擅长做 思维导图，推荐 XMind]]
-- [[http://www.ankichina.net][不擅长做 助记卡片，推荐 Anki]]
-- [[https://www.airtable.com][不擅长做 电子表格，推荐 Airtable]]
-
 **** [[./pics.org][图片合集]]
 ***** 邓宁-克鲁格效应
 [[./nous/04_dk_effect.org][邓克效应或达克效应（DK effect）]]，是一种认知偏差，能力欠缺的人有一种虚幻的自我优越感，错误地认为自己比真实情况更加优秀。
@@ -124,19 +106,6 @@
 #+ATTR_HTML: :style width:600px
 [[file:./img/index/000-达克效应.png]]
 #+END_QUOTE
-
-**** TODO 待归类
-***** 分离出工具类的单独页面
-1. [[https://www.loudreader.com/][在线电子书阅读工具]]
-
-***** 技术学习建议
-1. 学习技术的建议
-    - 学 TCP/IP，把 Nmap 和 Hping 的手册看一遍。
-    - 学 HTTP，把 Curl 的手册看一遍。
-    - 学 SQL 注入，把 SQLmap 的手册看一遍。
-    - 学 WEB 前端安全，把 BeEF 的手册看一遍。
-2. 建议
-    - API 的“指令类参数”，一定要和其它参数分割开来，最好是独立的参数，并且只能接受常量。比如格式化串 API 的格式参数，不接受变量。
 
 **** 共勉
 最近看到一段话，莫名鼓励了我，希望也鼓励了你。
