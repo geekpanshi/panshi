@@ -68,6 +68,7 @@
 ***** 数据信息
 - [[./datas_slogan.org][数据和政策变化跟踪]]
 - [[./nous/03_985_Motto.org][39 所 985 大学校训名单]]
+- [[./history/xnhc.org][新年贺词合集（2014 - 2022）]]
 - [[./history/birth_population.org][中国历年出生人口（1949 —— 2020）]]
 - [[./history/number_of_graduates.org][中国历年高校毕业人数（1978 —— 2021）]]
 
