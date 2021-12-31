@@ -25,6 +25,8 @@
 
 
 **** TODO 待归类
+- [[https://www.geekpanshi.com/]旧的博客迁移]
+- @@html:<b>2022 全年计划之一“学习前端”。</b>@@
 
 **** 站内索引
 ***** 读书荐书
@@ -96,7 +98,7 @@
 - [[https://pythontutor.com/][可视化执行代码（Java、C、C++、JavaScript and Ruby）]]
 
 ***** 文章
-- [[https://github.com/byoungd/English-level-up-tips-for-Chinese][英语学习指南]]
+- [[https://byoungd.gitbook.io/english-level-up-tips/part-i/1-understanding][英语学习指南]] [[https://github.com/byoungd/English-level-up-tips-for-Chinese][备链]]
 
 **** [[./pics.org][图片合集]]
 ***** 邓宁-克鲁格效应
