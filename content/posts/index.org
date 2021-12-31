@@ -105,7 +105,7 @@
 - [[https://www.conservethesound.de/][经典旧物的声音]]
 - [[https://nav.guidebook.top/][数字生活指南]]
 - [[https://wiki.kiwix.org/wiki/Main_Page/zh-cn][kiwix ，离线版的维基百科]]
-- [[https://www.calendarpedia.com/][日历打印 1]]  [[https://www.calendar.best/][2]]  [[https://7calendar.com/cn/][3]]
+- [[https://www.calendarpedia.com/][日历打印 1]]  [[https://www.calendar.best/][2]]  [[https://7calendar.com/cn/][3]] [[http://www.5adanci.com/][4]]
 
 ***** 笔记工具推荐
 - [[https://flomoapp.com][不擅长做 灵感收集，推荐 浮墨笔记]]
