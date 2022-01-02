@@ -31,6 +31,8 @@
 
 2. [[https://www.geekpanshi.com/][旧的博客迁移]]
 
+3. [[https://github.com/logseq][Logseq（一个可能要做的事情）]]
+
 **** 站内索引
 ***** 读书荐书
 - [[./dairy/2022_about_books.org][2022 年读书荐书]]
