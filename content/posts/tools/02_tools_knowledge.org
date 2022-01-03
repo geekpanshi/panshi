@@ -19,6 +19,7 @@
 - [[https://nav.guidebook.top/][数字生活指南]]
 - [[https://wiki.kiwix.org/wiki/Main_Page/zh-cn][kiwix ，离线版的维基百科]]
 - [[https://www.calendarpedia.com/][日历打印 1]]  [[https://www.calendar.best/][2]]  [[https://7calendar.com/cn/][3]] [[http://www.5adanci.com/][4]]
+- [[http://www.minkewiki.org/w/%E9%A6%96%E9%A1%B5][民科维基]]
 
 ***** 在线工具
 - [[https://www.loudreader.com/][在线电子书阅读工具]]
