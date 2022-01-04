@@ -1,5 +1,6 @@
 #+TITLE: 磐石说的杂货铺
 
+- [2022.01.04] [[file:2022/01/notes.org][2022 年 1 月随笔]]
 - [2021.12.31] [[file:history/xnhc.org][新年贺词合集（2014 - 2022）]]
 - [2021.12.31] [[file:tools/02_tools_knowledge.org][知识库和工具推荐]]
 - [2021.12.31] [[file:tools/01_about_notes.org][日程管理思考和软件推荐]]
