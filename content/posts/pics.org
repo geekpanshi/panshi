@@ -57,3 +57,10 @@
 #+ATTR_HTML: :style width:600px
 [[file:./img/pics/puer.png]]
 #+END_QUOTE
+
+***** 新年祝福
+#+BEGIN_QUOTE
+#+CAPTION: 新年祝福
+#+ATTR_HTML: :style width:600px
+[[file:./img/pics/happy_new_year.jpeg]]
+#+END_QUOTE

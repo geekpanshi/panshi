@@ -1,5 +1,6 @@
 #+TITLE: 磐石说的杂货铺
 
+- [2022.01.05] [[file:pics.org][图片合集]]
 - [2022.01.04] [[file:2022/01/notes.org][2022 年 1 月随笔]]
 - [2021.12.31] [[file:history/xnhc.org][新年贺词合集（2014 - 2022）]]
 - [2021.12.31] [[file:tools/02_tools_knowledge.org][知识库和工具推荐]]
@@ -9,7 +10,6 @@
 - [2021.12.29] [[file:article/003_luosu_1959.org][罗素：关于智慧、关于道德]]
 - [2021.12.29] [[file:article/004_seven_fallacy.org][殷海光总结的七种谬误]]
 - [2021.12.29] [[file:study/00_skil_thinks.org][技术学习的思考和总结]]
-- [2021.12.28] [[file:pics.org][图片合集]]
 - [2021.12.28] [[file:nous/05_about_body.org][关于人体的常识]]
 - [2021.12.23] [[file:study/01_web_basic.org][web 开发学习相关]]
 - [2021.12.23] [[file:history/rr_gaomi_jiefa.org][人民日报：不告密不揭发是道德底线]]
