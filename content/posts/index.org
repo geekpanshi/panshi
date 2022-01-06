@@ -23,17 +23,7 @@
 
 - 如果你面前的道路非常清晰，你恐怕是在属于别人的路上。
 
-
-**** TODO 待归类
-1. 2022 全年计划之一“学习 web 相关技术”：
-   - [[./img/front-end.png][前端]]（[[https://roadmap.sh/frontend][备链-1]]、[[https://github.com/kamranahmedse/developer-roadmap][备链-2]]）
-   - [[./img/backend.png][后端]]（[[https://roadmap.sh/backend][备链-1]]、[[https://github.com/kamranahmedse/developer-roadmap][备链-2]]）
-
-2. [[https://www.geekpanshi.com/][旧的博客迁移]]
-
-3. [[https://github.com/logseq][Logseq（一个可能要做的事情）]]
-
-4. 给开源项目提交代码。
+**** [[./todolist.org][TODO 待归类]]
 
 **** 站内索引
 ***** 读书荐书

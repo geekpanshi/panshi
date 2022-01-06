@@ -64,3 +64,10 @@
 #+ATTR_HTML: :style width:600px
 [[file:./img/pics/happy_new_year.jpeg]]
 #+END_QUOTE
+
+***** 我做事的方式
+#+BEGIN_QUOTE
+#+CAPTION: 我做事的方式
+#+ATTR_HTML: :style width:600px
+[[file:./img/pics/thewayido.png]]
+#+END_QUOTE
