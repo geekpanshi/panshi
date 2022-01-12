@@ -11,3 +11,7 @@
 ***** Restful 思考
 1. API 的“指令类参数”，一定要和其它参数分割开来，最好是独立的参数，并且只能接受常量。比如格式化串 API 的格式参数，不接受变量。
 
+
+***** 瑞士军刀系列
+- [[https://stedolan.github.io/jq/][jq]] [[https://mikefarah.gitbook.io/yq/][yq]] awk sed grep
+
