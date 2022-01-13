@@ -25,6 +25,8 @@
 - [[https://www.loudreader.com/][在线电子书阅读工具]]
 - [[https://dict.bioon.com/][医药大词典、生物在线词典]]
 - [[https://ai.12348.gov.cn/pc/][智能法律咨询]]
+- [[https://www.alltoall.net/][ALL TO ALL 在线格式转换]]
+- [[https://exam4.us/][自动生成艾宾浩斯记忆曲线计划表]
 
 *****  设计相关
 - [[https://hao.shejidaren.com/][好设计大人]]
