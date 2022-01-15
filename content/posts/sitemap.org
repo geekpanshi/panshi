@@ -1,5 +1,6 @@
 #+TITLE: 磐石说的杂货铺
 
+- [2022.01.15] [[file:2022/01/live_as_ceo.org][以 CEO 的方式去生活]]
 - [2022.01.06] [[file:todolist.org][TODO 待归类]]
 - [2022.01.06] [[file:pics.org][图片合集]]
 - [2022.01.04] [[file:2022/01/notes.org][2022 年 1 月随笔]]

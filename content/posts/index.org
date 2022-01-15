@@ -46,6 +46,7 @@
 - [[./nous/01_rabies.org][狂犬病科普]]
 - [[./2021/12/nongcunyanglao.org][农村养老及保险购买]]
 - [[./nous/05_about_body.org][关于人体的常识]]
+- [[./2022/01/live_as_ceo.org][以 CEO 的方式去生活]]
 
 ***** 技术相关
 - [[./study/00_skil_thinks.org][技术学习的思考和总结]]
