@@ -13,6 +13,8 @@
 - [[http://read.nlc.cn/thematDataSearch/toGujiIndex][中国国家图书馆 中国国家数字图书馆]]
 - [[https://cnkgraph.com][知识图谱]]
 - [[https://sou-yun.cn/][搜韵-诗词门户网站]]
+- [[http://opencourse.pku.edu.cn/course/opencourse2/index.html][北大公开课]]
+- [[http://open.nlc.cn/onlineedu/client/index.htm][国图的公开课]]
 
 *****  工具类
 - [[https://www.conservethesound.de/][经典旧物的声音]]
