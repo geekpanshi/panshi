@@ -47,6 +47,7 @@
 - [[./2021/12/nongcunyanglao.org][农村养老及保险购买]]
 - [[./nous/05_about_body.org][关于人体的常识]]
 - [[./2022/01/live_as_ceo.org][以 CEO 的方式去生活]]
+- [[./2022/01/10_tips_for_companionship.org][10 个人类高质量陪伴实用建议]]
 
 ***** 技术相关
 - [[./study/00_skil_thinks.org][技术学习的思考和总结]]
@@ -86,6 +87,8 @@
 - [[https://github.com/kelthuzadx/EffectiveModernCppChinese][《Effective Modern C++ 》翻译]]
 - [[https://regexlearn.com/][正则表达式学习]]
 - [[https://composingprograms.com/][SICP python3 实现]]
+- [[https://www.kodable.com/][少儿编程]]
+- [[https://freecodecamp.itch.io/learn-to-code-rpg][Learn to Code RPG]]
 
 ****** 未归类
 - [[https://www.crummy.com/software/BeautifulSoup/][BeautifulSoup]]
@@ -107,7 +110,7 @@
 #+BEGIN_QUOTE
 #+CAPTION: 邓宁-克鲁格效应
 #+ATTR_HTML: :style width:600px
-[[file:./img/index/000-达克效应.png]]
+[[file:./img/index/0_Dunning-KrugerEffect.png]]
 #+END_QUOTE
 
 **** 共勉
