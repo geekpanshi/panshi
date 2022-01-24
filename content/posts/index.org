@@ -31,10 +31,9 @@
 - [[./dairy/about_books.org][读书荐书之 2021 年第 4/4 更]]
 
 ***** 随笔系列
+- [[./2022/01/notes.org][2022 年 1 月随笔]]
 - [[./nous/02_some_tech.org][一些必须知道的常识]]
-- [[./2022/01/notes.org][2022 年  1 月随笔]]
-- [[./2021/12/notes.org][2021 年 12 月随笔]]
-- [[./2021/11/notes.org][2021 年 11 月随笔]]
+- [[./2021/index.org][历史随笔集锦]]
 
 ***** 投资理财
 - [[./2021/chaogu_shudan.org][炒股好书推荐]]
@@ -89,6 +88,7 @@
 - [[https://composingprograms.com/][SICP python3 实现]]
 - [[https://www.kodable.com/][少儿编程]]
 - [[https://freecodecamp.itch.io/learn-to-code-rpg][Learn to Code RPG]]
+- [[https://www.30secondsofcode.org/][30 秒编程系列]]
 
 ****** 未归类
 - [[https://www.crummy.com/software/BeautifulSoup/][BeautifulSoup]]
