@@ -18,8 +18,10 @@ jobs:
       - name: Build the site
         run: ./auto_build.sh
 
-      - name: Publish generated content to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@4.1.4
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.9
         with:
           branch: gh-pages
           folder: public
+          clean: true
+          single-commit: true
