@@ -1,9 +1,10 @@
 #+TITLE: 磐石说的杂货铺
 
+- [2022.01.26] [[file:pics.org][图片合集]]
+- [2022.01.24] [[file:2021/index.org][随笔集锦]]
 - [2022.01.19] [[file:2022/01/10_tips_for_companionship.org][10 个“人类高质量陪伴”实用建议]]
 - [2022.01.15] [[file:2022/01/live_as_ceo.org][以 CEO 的方式去生活]]
 - [2022.01.06] [[file:todolist.org][TODO 待归类]]
-- [2022.01.06] [[file:pics.org][图片合集]]
 - [2022.01.04] [[file:2022/01/notes.org][2022 年 1 月随笔]]
 - [2021.12.31] [[file:history/xnhc.org][新年贺词合集（2014 - 2022）]]
 - [2021.12.31] [[file:tools/02_tools_knowledge.org][知识库和工具推荐]]
@@ -31,7 +32,6 @@
 - [2021.12.07] [[file:study/linux_cli.org][Linux 命令集锦]]
 - [2021.12.01] [[file:tools/03_common_tools.org][常用工具分享]]
 - [2021.11.30] [[file:2021/12/notes.org][2021 年 12 月随笔]]
-- [2021.11.30] [[file:2021/index.org][2021 年随笔集锦]]
 - [2021.11.30] [[file:2021/11/notes.org][2021 年 11 月随笔]]
 - [2021.11.29] [[file:datas_slogan.org][数据和政策跟踪]]
 - [2021.11.26] [[file:2021/12/zhihu_100.org][知乎：100 条简短深刻的神回答]]
