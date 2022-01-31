@@ -1,9 +1,12 @@
 name: Publish to GitHub Pages
 
 on:
-  push:
-    branches:
-      - master
+  # Triggers the workflow just at 23:59 UTC on Sun.
+  schedule:
+    - cron: '59 23 * * Sun'
+  #push:
+  #  branches:
+  #    - master
 
 jobs:
   publish:
