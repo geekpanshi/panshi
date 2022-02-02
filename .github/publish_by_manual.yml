@@ -1,0 +1,22 @@
+name: Publish to GitHub Pages by manual
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v1
+
+      - name: Install Emacs
+        run: sudo apt install emacs-nox --yes
+
+      - name: Build the site
+        run: ./auto_build.sh
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.9
+        with:
+          branch: gh-pages
+          folder: public
+          clean: true
+          single-commit: true
