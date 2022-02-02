@@ -1,5 +1,10 @@
 name: Publish to GitHub Pages by manual
 
+on: []
+  #push:
+  #  branches:
+  #    - master
+  
 jobs:
   publish:
     runs-on: ubuntu-latest
