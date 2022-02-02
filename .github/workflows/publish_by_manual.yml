@@ -1,9 +1,9 @@
 name: Publish to GitHub Pages by manual
 
-on: []
-  #push:
-  #  branches:
-  #    - master
+on: 
+  push:
+    branches:
+      - manual_publish
   
 jobs:
   publish:
