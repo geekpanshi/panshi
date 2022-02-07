@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - manual_publish
-
 jobs:
   publish:
     runs-on: ubuntu-latest
