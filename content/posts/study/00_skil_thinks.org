@@ -15,6 +15,8 @@
 - [[https://stedolan.github.io/jq/][jq]] [[https://mikefarah.gitbook.io/yq/][yq]] awk sed grep
 - [[https://command-not-found.com/][command-not-found.com]]
 - [[https://starship.rs/][starship 跨平台 shell]]
+- [[https://www.m3o.com/][一个快速集成 API 到你项目的网站]]
+- [[https://ide.onelang.io/?input=HelloWorldRaw][一个帮助同时编写多种语言的代码的工具]]
 
 ***** Windows 不格式化磁盘的情况下安全删除文件
 Windows 的 Format 命令已经支持安全擦除整个分区。Format 命令加上 /P 参数后，就会把每个扇区先清零，再用随机数覆盖。而且可以覆盖多次。比如“format D: /P:8”就表示把 D 盘用随机数覆盖 8 次。

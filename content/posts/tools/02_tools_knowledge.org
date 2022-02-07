@@ -2,7 +2,7 @@
 #+AUTHOR: panshishuo
 #+date: <2021-12-31 06:09>
 
-*****  知识库
+***** 知识库
 - [[https://digicol.dpm.org.cn/][故宫博物院数字文物库]]
 - [[https://www.allhistory.com/][全历史]]
 - [[https://gallerix.asia/][网上世界名画 16 万多幅]]
@@ -15,21 +15,29 @@
 - [[https://sou-yun.cn/][搜韵-诗词门户网站]]
 - [[http://opencourse.pku.edu.cn/course/opencourse2/index.html][北大公开课]]
 - [[http://open.nlc.cn/onlineedu/client/index.htm][国图的公开课]]
+- [[http://www.onegreen.net/maps/m/][世界各国、全国各省市政区地图]]
 
-*****  工具类
+***** 工具类
 - [[https://www.conservethesound.de/][经典旧物的声音]]
 - [[https://nav.guidebook.top/][数字生活指南]]
 - [[https://wiki.kiwix.org/wiki/Main_Page/zh-cn][kiwix ，离线版的维基百科]]
 - [[https://www.calendarpedia.com/][日历打印 1]]  [[https://www.calendar.best/][2]]  [[https://7calendar.com/cn/][3]] [[http://www.5adanci.com/][4]]
 - [[http://www.minkewiki.org/w/%E9%A6%96%E9%A1%B5][民科维基]]
+- [[https://crxdl.com/][下载 Chrome 扩展插件 Crx 离线安装包]]
+- [[https://www.qingwei.tech/somehub/][Pornhub 图标生成器]] [[https://lab.bangbang93.com/porn-hub][备-1]]  [[https://www.logoly.pro/#/][备-2]]
+- [[https://www.library.ac.cn/][学术镜像列表]]
 
-*****  在线工具
+***** 在线工具
 - [[https://www.loudreader.com/][在线电子书阅读工具]]
 - [[https://dict.bioon.com/][医药大词典、生物在线词典]]
 - [[https://ai.12348.gov.cn/pc/][智能法律咨询]]
 - [[https://www.alltoall.net/][ALL TO ALL 在线格式转换]]
 - [[https://exam4.us/][自动生成艾宾浩斯记忆曲线计划表]]
+- [[https://www.msdmanuals.cn/home][默沙东诊疗手册家庭版]]
 
-*****  设计相关
+***** 设计相关
 - [[https://hao.shejidaren.com/][好设计大人]]
 - [[https://macosicons.com/][macOS App icons]]
+
+***** 教育网站
+- [[https://www.mathgames.com/][学习数学的网站]]

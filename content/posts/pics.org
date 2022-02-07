@@ -71,3 +71,11 @@
 #+ATTR_HTML: :style width:600px
 [[file:./img/pics/thewayido.png]]
 #+END_QUOTE
+
+***** 不同“知识”模型
+那些被我们混为一谈的不同“知识”模型： 数据、信息、知识、洞见、智慧、阴谋论/牵强附会 我印象中，大概 80% 的公众号文章建立在最后一种模型上。
+#+BEGIN_QUOTE
+#+CAPTION: 不同“知识”模型
+#+ATTR_HTML: :style width:600px
+[[file:./img/pics/road_of_study.png]]
+#+END_QUOTE
