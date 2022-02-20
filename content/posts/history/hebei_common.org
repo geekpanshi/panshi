@@ -21,7 +21,9 @@
 11. 1966 年 5 月，冀、津利益矛盾重重，保定又一次成为河北省会。
 12. 1968 年 2 月，河北省革委会在石家庄成立，石家庄成为河北省新省会，并延续至今。
 
-[[https://raw.githubusercontent.com/apanshi/pics_center/master/his/hebeishenghuibianqian.jpg][河北省会 55 年间变动了 11 次保定五次当选省会]]
+#+CAPTION: 河北省会 55 年间变动了 11 次保定五次当选省会
+#+ATTR_HTML: :style width:600px
+[[https://raw.githubusercontent.com/apanshi/pics_center/master/his/hebeishenghuibianqian.jpg]]
 
 **** 备注
-[[(http://hebei.ifeng.com/special/lbgc17/#page1][河北的省会变迁史]]
+[[http://hebei.ifeng.com/special/lbgc17/#page1][河北的省会变迁史]]
