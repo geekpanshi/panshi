@@ -25,3 +25,7 @@ Orgmode、子弹笔记、日程笔记（Agenda/NotePlan）、大纲笔记（幕�
 
 - [[https://tiddlywiki.com/][TiddlyWiki]]
 - [[https://logseq.com/][Logseq - A privacy-first, open-source knowledge base]]
+
+***** 笔记工具比较
+
+- [[https://www.noteapps.info/][笔记软件、笔记工具比较]

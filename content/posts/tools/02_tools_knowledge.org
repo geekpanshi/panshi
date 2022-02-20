@@ -26,6 +26,7 @@
 - [[https://crxdl.com/][下载 Chrome 扩展插件 Crx 离线安装包]]
 - [[https://www.qingwei.tech/somehub/][Pornhub 图标生成器]] [[https://lab.bangbang93.com/porn-hub][备-1]]  [[https://www.logoly.pro/#/][备-2]]
 - [[https://www.library.ac.cn/][学术镜像列表]]
+- [[https://web.mypitaya.com/works][在线智能写作]]
 
 ***** 在线工具
 - [[https://www.loudreader.com/][在线电子书阅读工具]]
@@ -34,10 +35,15 @@
 - [[https://www.alltoall.net/][ALL TO ALL 在线格式转换]]
 - [[https://exam4.us/][自动生成艾宾浩斯记忆曲线计划表]]
 - [[https://www.msdmanuals.cn/home][默沙东诊疗手册家庭版]]
+- [[https://ezgif.com/][Online GIF maker and image editor 图片制作]]
 
 ***** 设计相关
 - [[https://hao.shejidaren.com/][好设计大人]]
 - [[https://macosicons.com/][macOS App icons]]
+- [[https://www.checklist.design/][Checklist Design - A collection of the best design practices.]]
 
 ***** 教育网站
 - [[https://www.mathgames.com/][学习数学的网站]]
+
+***** 娱乐类
+- [[https://poki.com/][Poki —— 在线游戏]]

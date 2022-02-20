@@ -1,0 +1,11 @@
+#+title: 在线电子书资源
+#+AUTHOR: panshishuo
+#+date: <2022-02-20 07:30>
+
+***** 电子书网站
+
+- [[https://bookfere.com/][书伴 —— 为静心阅读而生]]
+- [[https://zh.b-ok.com/][Z-Library 项目部分. 全球最大的数字图书馆]] [[https://zh.z-lib.org/][备份链接]]
+
+***** 计算机类
+- [[https://pocorgtfo.hacke.rs/][Archives of POC||GTFO]]
