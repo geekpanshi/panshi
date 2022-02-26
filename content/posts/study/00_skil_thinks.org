@@ -26,3 +26,9 @@
 Windows 的 Format 命令已经支持安全擦除整个分区。Format 命令加上 /P 参数后，就会把每个扇区先清零，再用随机数覆盖。而且可以覆盖多次。比如“format D: /P:8”就表示把 D 盘用随机数覆盖 8 次。
 
 那如何用 Windows 自带功能在不格式化磁盘的情况下安全删除文件呢？Cipher 命令本来是用于磁盘加密的，但有个 /W 参数可对磁盘上未使用的空间进行覆盖。比如你刚刚删除了 D:\Private 目录下的几个文件，那么执行一下“cipher /w:D:\Private”。D 盘上未使用空间就会被覆盖三次：一次 0x00、一次 0xFF，一次随机数。所有被删除的文件就都不可能被恢复了。
+
+***** 工具软件
+
+- [[https://alacritty.org/][Alacritty]]
+- [[https://tabby.sh/][A terminal for the modern age]]
+- [[https://mobaxterm.mobatek.net/][MobaXterm]]
