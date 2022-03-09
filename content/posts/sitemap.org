@@ -1,5 +1,8 @@
 #+TITLE: 磐石说的杂货铺
 
+- [2022.03.04] [[file:2022/03/my_gtd_notes.org][我的 GTD 之路]]
+- [2022.03.03] [[file:2022/03/about_selfish.org][聪明的自私与愚蠢的自私]]
+- [2022.03.03] [[file:2022/03/notes.org][2022 年 3 月随笔]]
 - [2022.02.20] [[file:history/guaimai_02.org][被拐六年]]
 - [2022.02.20] [[file:history/guaimai_01.org][研究生女儿被拐，莫教授投毒复仇]]
 - [2022.02.20] [[file:history/hebei_common.org][河北的省会变迁史：55 年间变动了 11 次]]
