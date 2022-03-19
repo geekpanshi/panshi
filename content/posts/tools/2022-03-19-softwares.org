@@ -1,0 +1,8 @@
+#+title: 效率软件推荐
+#+AUTHOR: panshishuo
+#+date: <2021-12-01 18:15>
+
+****** 全平台支持
+
+- [[https://www.raycast.com/][启动器管理]]
+- [[http://www.filecxx.com/zh_CN/index.html][文件蜈蚣是一个增强特性的网络文件下载管理器]]

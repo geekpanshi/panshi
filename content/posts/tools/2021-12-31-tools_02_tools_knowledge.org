@@ -36,11 +36,16 @@
 - [[https://exam4.us/][自动生成艾宾浩斯记忆曲线计划表]]
 - [[https://www.msdmanuals.cn/home][默沙东诊疗手册家庭版]]
 - [[https://ezgif.com/][Online GIF maker and image editor 图片制作]]
+- [[http://numcalc.com/][在线科学计算器]]
+- [[https://cli.im/][在线生成二维码 —— 草料二维码]]
+- [[https://rework.tools/][REWORK 导航 效率工具导航，工作大解放]]
 
 ***** 设计相关
 - [[https://hao.shejidaren.com/][好设计大人]]
 - [[https://macosicons.com/][macOS App icons]]
 - [[https://www.checklist.design/][Checklist Design - A collection of the best design practices.]]
+- [[https://excalidraw.com/][在线画图软件]]
+- [[https://icones.js.org/][图标 Icon Explorer with Instant searching, powered by Iconify]]
 
 ***** 教育网站
 - [[https://www.mathgames.com/][学习数学的网站]]

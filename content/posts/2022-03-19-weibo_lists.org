@@ -1,0 +1,157 @@
+#+title: 微博视频歌单
+#+AUTHOR: panshishuo
+#+date: <2022-03-19 00:50>
+#+LAYOUT: post
+#+liquid: enabled
+#+slug: 0x3fd6cd48bb500001
+#+TAGS: 歌曲 视频 科普
+
+75. [[https://video.weibo.com/show?fid=1034:4748517009457205][腾格尔 蒙古人]]
+
+74. [[https://video.weibo.com/show?fid=1034:4748468292616317][蔡琴 渡口]]
+
+73. [[https://video.weibo.com/show?fid=1034:4748459371331635][腾格尔 天堂]]
+
+72. [[https://video.weibo.com/show?fid=1034:4748459006427277][邰正宵 九百九十九朵玫瑰]]
+
+71. [[https://video.weibo.com/show?fid=1034:4748456150106180][梁静茹 分手快乐]]
+
+70. [[https://video.weibo.com/show?fid=1034:4748456263352412][卢巧音 王力宏 好心分手]]
+
+69. [[https://video.weibo.com/show?fid=1034:4748456082997264][张信哲 过火]]
+
+68. [[https://video.weibo.com/show?fid=1034:4748343373660253][范炜与程渤智 西安人的歌 ]]
+
+67. [[https://video.weibo.com/show?fid=1034:4748179573506128][岛屿心情 2019 太湖迷笛音乐节影子 lost generation玩具放肆灯火8+8=8当一切結束时]]
+
+66. [[https://video.weibo.com/show?fid=1034:4748177388273695][岛屿心情 蝼蚁]]
+
+65. [[https://video.weibo.com/show?fid=1034:4748177501519894][岛屿心情 当一切结束时]]
+
+64. [[https://video.weibo.com/show?fid=1034:4748177082089504][郑钧 灰姑娘]]
+
+63. [[https://video.weibo.com/show?fid=1034:4748177300193361][岛屿心情 除夕]]
+
+62. [[https://video.weibo.com/show?fid=1034:4748177153392666][郑钧 回到拉萨]]
+
+61. [[https://video.weibo.com/show?fid=1034:4748176859791380][岛屿心情 寻找]]
+
+60. [[https://video.weibo.com/show?fid=1034:4748177002397763][郑钧 赤裸裸]]
+
+59. [[https://video.weibo.com/show?fid=1034:4748114163335279][乌兰托娅 套马杆 ]]
+
+58. [[https://video.weibo.com/show?fid=1034:4748099567157418][西安外事学院  腾格尔 联合演绎鼓乐版《西安人的歌》]]
+
+57. [[https://video.weibo.com/show?fid=1034:4747935389515831][戴佩妮 怎样 ]]
+
+56. [[https://video.weibo.com/show?fid=1034:4747932306702368][罗大佑 恋曲 电影《又见阿郎》 ]]
+
+55. [[https://video.weibo.com/show?fid=1034:4747911259684892][孟庭苇 风中有朵女雨做的云]]
+
+54. [[https://video.weibo.com/show?fid=1034:4747351152328754][庞龙 两只蝴蝶]]
+
+53. [[https://video.weibo.com/show?fid=1034:4747351047471218][卓依婷 明天会更好]]
+
+52. [[https://video.weibo.com/show?fid=1034:4747250413535263][蔡幸娟 相爱容易相处难]]
+
+51. [[https://video.weibo.com/show?fid=1034:4747164585492490][任贤齐 心太软]]
+
+50. [[https://video.weibo.com/show?fid=1034:4747163926986809][韩红 天亮了]]
+
+49. [[https://video.weibo.com/show?fid=1034:4747163813740578][王杰 Dave Wang - 我还是永远爱着你 Still Deeply In Love With You]]
+
+48. [[https://video.weibo.com/show?fid=1034:4745803189911603][周华健 朋友]]
+
+47. [[https://video.weibo.com/show?fid=1034:4745803655479353][刘若英 后来]]
+
+46. [[https://video.weibo.com/show?fid=1034:4745513581609095][瑞达利欧 原则 ]]
+
+45. [[https://video.weibo.com/show?fid=1034:4745361353539594][F.I.R. 飞儿乐团 我们的爱]]
+
+44. [[https://video.weibo.com/show?fid=1034:4745361080909885][周华健。让我欢喜让我忧]]
+
+43. [[https://video.weibo.com/show?fid=1034:4745360942497798][李克勤 红日]]
+
+42. [[https://video.weibo.com/show?fid=1034:4745220424925299][伍佰 你是我的花朵]]
+
+41. [[https://video.weibo.com/show?fid=1034:4745220508811315][群星 祝你生日快乐]]
+
+40. [[https://video.weibo.com/show?fid=1034:4744752353181795][慕容晓晓 黄梅戏]]
+
+39. [[https://video.weibo.com/show?fid=1034:4744718475788354][彭佳慧 相见恨晚]]
+
+38. [[https://video.weibo.com/show?fid=1034:4744534320676868][李孝利 - 10 Minutes (十分钟) ]]
+
+37. [[https://video.weibo.com/show?fid=1034:4744533716697125][梁静茹 可惜不是你]]
+
+36. [[https://video.weibo.com/show?fid=1034:4744533976744016][she 恋人未满]]
+
+35. [[https://video.weibo.com/show?fid=1034:4744533561507901][梁静茹 勇气]]
+
+34. [[https://video.weibo.com/show?fid=1034:4744533368569872][张柏芝 星语心愿]]
+
+33. [[https://video.weibo.com/show?fid=1034:4744267906875401][孟庭苇 没有情人的情人节]]
+
+32. [[https://video.weibo.com/show?fid=1034:4744267609079817][黄品源 小薇]]
+
+31. [[https://video.weibo.com/show?fid=1034:4744267311284269][陈淑桦 梦醒时分]]
+
+30. [[https://video.weibo.com/show?fid=1034:4744266967351299][韩再芬 女驸马 片段]]
+
+29. [[https://video.weibo.com/show?fid=1034:4744266753441804][严凤英 女驸马 片段]]
+
+28. [[https://video.weibo.com/show?fid=1034:4744096326287444][谭晶 九儿 我是歌手]]
+
+27. [[https://video.weibo.com/show?fid=1034:4744095403540603][周华健 刀剑如梦 倚天屠龙记]]
+
+26. [[https://video.weibo.com/show?fid=1034:4744095525175369][小背篓]]
+
+25. [[https://video.weibo.com/show?fid=1034:4744095231574034][李丽芬 爱江山更爱美人 倚天屠龙记]]
+
+24. [[https://video.weibo.com/show?fid=1034:4744095017664534][辛晓琪 女人何苦为难女人]]
+
+23. [[https://video.weibo.com/show?fid=1034:4744094652760098][柳堡的故事 九九艳阳天]]
+
+22. [[https://video.weibo.com/show?fid=1034:4743982467711000][红楼梦原声大碟]]
+
+21. [[https://video.weibo.com/show?fid=1034:4743925047689224][周杰伦 jay：范特西：爱在西元前爸 我回来了简单爱忍者开不了口上海一九四三对不起威廉古堡双截棍安 静]]
+
+20. [[https://video.weibo.com/show?fid=1034:4743836631760910][张艺谋 电影 活着 主题曲 赵季平]]
+
+19. [[https://video.weibo.com/show?fid=1034:4743835839037452][michael jackson - They Don't Care About Us]]
+
+18. [[https://video.weibo.com/show?fid=1034:4743835335720972][Michael Jackson - Smooth Criminal]]
+
+17. [[https://video.weibo.com/show?fid=1034:4743834446528534][许巍 蓝莲花]]
+
+16. [[https://video.weibo.com/show?fid=1034:4743834626883638][朴树 平凡之路]]
+
+15. [[https://video.weibo.com/show?fid=1034:4743834203258962][郑智化 水手]]
+
+14. [[https://video.weibo.com/show?fid=1034:4743833548947502][张蔷&新裤子乐队 路灯下的小姑娘]]
+
+13. [[https://video.weibo.com/show?fid=1034:4743829409169489][张蔷&新裤子乐队 路灯下的小姑娘 2015 年长沙草莓音乐节]]
+
+12. [[https://video.weibo.com/show?fid=1034:4743686064635989][米奇的奇妙世界 —— 游戏之夜]]
+
+11. [[https://video.weibo.com/show?fid=1034:4743685003477153][江蕙 家后]]
+
+10. [[https://video.weibo.com/show?fid=1034:4743683967484019][围棋科普-2]]
+
+09. [[https://video.weibo.com/show?fid=1034:4743683871015004][围棋科普-1]]
+
+08. [[https://video.weibo.com/show?fid=1034:4743587557212211][陈红 常回家看看]]
+
+07. [[https://video.weibo.com/show?fid=1034:4743562966007817][陈琳 爱就爱了]]
+
+06. [[https://video.weibo.com/show?fid=1034:4743350256074835][《夜曲》一响 上台领奖 周杰伦 《夜曲》]]
+
+05. [[https://video.weibo.com/show?fid=1034:4743326088495151][Yesterday Once More 《昨日重現》（奥黛丽·赫本）]]
+
+04. [[https://video.weibo.com/show?fid=1034:4743291774894124][不再犹豫 - Beyond]]
+
+03. [[https://video.weibo.com/show?fid=1034:4743276344049775][我心永恒（My Heart Will Go On）泰坦尼克号主题曲]]
+
+02. [[https://video.weibo.com/show?fid=1034:4742981962629248][郑绪岚 珍藏版《情系红楼梦》完整专辑]]
+
+01. [[https://video.weibo.com/show?fid=1034:4742952715747471][张连卖布]]
