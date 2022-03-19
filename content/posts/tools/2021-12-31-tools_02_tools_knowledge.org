@@ -38,7 +38,7 @@
 - [[https://ezgif.com/][Online GIF maker and image editor 图片制作]]
 - [[http://numcalc.com/][在线科学计算器]]
 - [[https://cli.im/][在线生成二维码 —— 草料二维码]]
-- [[rework.tools][REWORK 导航 效率工具导航，工作大解放]]
+- [[https://rework.tools/][REWORK 导航 效率工具导航，工作大解放]]
 
 ***** 设计相关
 - [[https://hao.shejidaren.com/][好设计大人]]
