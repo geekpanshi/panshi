@@ -44,8 +44,6 @@
 - [[https://hao.shejidaren.com/][好设计大人]]
 - [[https://macosicons.com/][macOS App icons]]
 - [[https://www.checklist.design/][Checklist Design - A collection of the best design practices.]]
-- [[https://excalidraw.com/][在线画图软件]]
-- [[https://icones.js.org/][图标 Icon Explorer with Instant searching, powered by Iconify]]
 
 ***** 教育网站
 - [[https://www.mathgames.com/][学习数学的网站]]
