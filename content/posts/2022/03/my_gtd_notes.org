@@ -17,7 +17,7 @@ GTD 方法的思想是将所有感兴趣的项目、相关信息、问题、任�
 #+BEGIN_QUOTE
 #+CAPTION: GTD 流程图示-1
 #+ATTR_HTML: :style width:600px
-[[file:../../img/gtd/gtd_flow_1.png]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/gtd/gtd_flow_1.png]]
 #+END_QUOTE
 
 ***** 1.1.2 DTD 流程图示
@@ -25,7 +25,7 @@ GTD 方法的思想是将所有感兴趣的项目、相关信息、问题、任�
 #+BEGIN_QUOTE
 #+CAPTION: GTD 流程图示-2
 #+ATTR_HTML: :style width:600px
-[[file:../../img/gtd/gtd_flow_2.png]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/gtd/gtd_flow_2.png]]
 #+END_QUOTE
 
 总之，GTD 的流程其实就是：
@@ -53,7 +53,7 @@ GTD 方法的思想是将所有感兴趣的项目、相关信息、问题、任�
 #+BEGIN_QUOTE
 #+CAPTION: 番茄工作法
 #+ATTR_HTML: :style width:600px
-[[file:../../img/gtd/tomato_time_m.png]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/gtd/tomato_time_m.png]]
 #+END_QUOTE
 
 番茄工作法有 5 个步骤：
@@ -77,7 +77,7 @@ GTD 方法的思想是将所有感兴趣的项目、相关信息、问题、任�
 #+BEGIN_QUOTE
 #+CAPTION: 四象限划分
 #+ATTR_HTML: :style width:600px
-[[file:../../img/gtd/4_time_m.png]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/gtd/4_time_m.png]]
 #+END_QUOTE
 
 待办事项详细的区分方式如下：
@@ -135,7 +135,7 @@ GTD 用惯了以后，会发现需要临时去做的事情，一些突发事件�
 #+BEGIN_QUOTE
 #+CAPTION: 滴答清单付费权益
 #+ATTR_HTML: :style width:600px
-[[file:../../img/gtd/dida.png]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/gtd/dida.png]]
 #+END_QUOTE
 
 **** 4.2 [[https://todo.microsoft.com/tasks/zh-cn/][微软 Todo]]
@@ -161,7 +161,7 @@ Org-mode 是文本编辑器 Emacs 的一种支持内容分级显示的编辑模�
 #+BEGIN_QUOTE
 #+CAPTION: GTD 工具对比
 #+ATTR_HTML: :style width:600px
-[[file:../../img/gtd/cmp_tools.png]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/gtd/cmp_tools.png]]
 #+END_QUOTE
 
 *** 5. 推荐阅读

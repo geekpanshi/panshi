@@ -110,7 +110,7 @@
 #+BEGIN_QUOTE
 #+CAPTION: 邓宁-克鲁格效应
 #+ATTR_HTML: :style width:600px
-[[file:./img/index/0_Dunning-KrugerEffect.png]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/index/0_Dunning-KrugerEffect.png]]
 #+END_QUOTE
 
 **** 共勉

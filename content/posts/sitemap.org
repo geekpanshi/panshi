@@ -1,5 +1,8 @@
 #+TITLE: 磐石说的杂货铺
 
+- [2022.03.26] [[file:pics.org][图片合集]]
+- [2022.03.19] [[file:2022-03-19-weibo_lists.org][微博视频歌单]]
+- [2022.03.19] [[file:history/2022-03-19-methods_of_punishnig_about_traffickers.org][中国历代处罚人贩子方式]]
 - [2022.03.04] [[file:2022/03/my_gtd_notes.org][我的 GTD 之路]]
 - [2022.03.03] [[file:2022/03/about_selfish.org][聪明的自私与愚蠢的自私]]
 - [2022.03.03] [[file:2022/03/notes.org][2022 年 3 月随笔]]
@@ -12,7 +15,6 @@
 - [2022.02.20] [[file:2022/02/mans_pua.org][国男 PUA 几大话术]]
 - [2022.02.07] [[file:2022/02/how_to_be_a_better_communicator.org][如何成为一个更好的交谈者？]]
 - [2022.02.01] [[file:2022/02/notes.org][2022 年 2 月随笔]]
-- [2022.01.26] [[file:pics.org][图片合集]]
 - [2022.01.24] [[file:2021/index.org][随笔集锦]]
 - [2022.01.19] [[file:2022/01/10_tips_for_companionship.org][10 个“人类高质量陪伴”实用建议]]
 - [2022.01.15] [[file:2022/01/live_as_ceo.org][以 CEO 的方式去生活]]
@@ -42,6 +44,7 @@
 - [2021.12.10] [[file:2021/12/hhkb.org][HHKB 键盘笔记]]
 - [2021.12.10] [[file:2021/chaogu_shudan.org][炒股书单推荐]]
 - [2021.12.07] [[file:study/linux_cli.org][Linux 命令集锦]]
+- [2021.12.01] [[file:tools/2022-03-19-softwares.org][效率软件推荐]]
 - [2021.12.01] [[file:tools/03_common_tools.org][常用工具分享]]
 - [2021.11.30] [[file:2021/12/notes.org][2021 年 12 月随笔]]
 - [2021.11.30] [[file:2021/11/notes.org][2021 年 11 月随笔]]

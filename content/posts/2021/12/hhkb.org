@@ -15,14 +15,14 @@ Happy Hacking Keyboard（缩写为 HHKB）是由株式会社 PFU（富士通的�
 #+BEGIN_QUOTE
 #+CAPTION: HHKB 键盘布局
 #+ATTR_HTML: :style width:600px
-[[file:../../img/hhkb/003_hhkb.png]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/hhkb/003_hhkb.png]]
 #+END_QUOTE
 
 ***** HHKB 指法键位
 #+BEGIN_QUOTE
 #+CAPTION: HHKB 指法键位示意图
 #+ATTR_HTML: :style width:600px
-[[file:../../img/hhkb/004_hhkb.png]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/hhkb/004_hhkb.png]]
 #+END_QUOTE
 
 ***** HHKB Dip 设置
@@ -50,7 +50,7 @@ Happy Hacking Keyboard（缩写为 HHKB）是由株式会社 PFU（富士通的�
 #+BEGIN_QUOTE
 #+CAPTION: 我的 HHKB HYBRID TYPE-S 改键（for macOS）
 #+ATTR_HTML: :style width:600px
-[[file:../../img/hhkb/005_hhkb-myconfig.jpg]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/hhkb/005_hhkb-myconfig.jpg]]
 #+END_QUOTE
 
 ***** HHKB professional hybrid 说明书
@@ -61,7 +61,7 @@ Happy Hacking Keyboard（缩写为 HHKB）是由株式会社 PFU（富士通的�
 #+BEGIN_QUOTE
 #+CAPTION: 普通键盘指法键位图
 #+ATTR_HTML: :style width:600px
-[[file:../../img/hhkb/002_nomal_key_map.png]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/hhkb/002_nomal_key_map.png]]
 #+END_QUOTE
 - [[https://happyhackingkb.com/download][HHKB 官方 Keymap Tool、固件和手册下载]]
 
@@ -71,7 +71,7 @@ Happy Hacking Keyboard（缩写为 HHKB）是由株式会社 PFU（富士通的�
 #+BEGIN_QUOTE
 #+CAPTION: ANSI 104 键盘布局
 #+ATTR_HTML: :style width:600px
-[[file:../../img/hhkb/006-ANSI_104美国键盘.png]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/hhkb/006-ANSI_104美国键盘.png]]
 #+END_QUOTE
 
 - [[https://item.jd.com/62603602537.html][HHKB 购买链接]]

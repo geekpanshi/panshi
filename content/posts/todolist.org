@@ -3,10 +3,10 @@
 #+date: <2022-01-06 18:41>
 
 ***** 2022 全年计划之一“学习 web 相关技术”：
-   - [[./img/front-end.png][前端]]（[[https://roadmap.sh/frontend][备链-1]]、[[https://github.com/kamranahmedse/developer-roadmap][备链-2]]）
-   - [[./img/backend.png][后端]]（[[https://roadmap.sh/backend][备链-1]]、[[https://github.com/kamranahmedse/developer-roadmap][备链-2]]）
+   - [[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/front-end.png][前端]]（[[https://roadmap.sh/frontend][备链-1]]、[[https://github.com/kamranahmedse/developer-roadmap][备链-2]]）
+   - [[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/backend.png][后端]]（[[https://roadmap.sh/backend][备链-1]]、[[https://github.com/kamranahmedse/developer-roadmap][备链-2]]）
 
-***** [[https://www.geekpanshi.com/][旧的博客迁移]]
+***** DONE [[https://www.geekpanshi.com/][旧的博客迁移]]
 
 ***** DONE [[https://github.com/logseq][Logseq（一个可能要做的事情）]]
 
