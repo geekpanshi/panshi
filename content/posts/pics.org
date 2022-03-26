@@ -6,70 +6,70 @@
 #+BEGIN_QUOTE
 #+CAPTION: 2022 年年历
 #+ATTR_HTML: :style width:600px
-[[file:./img/index/2022_calc.png]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/index/2022_calc.png]]
 #+END_QUOTE
 
 ***** 知识的量变和质变
 #+BEGIN_QUOTE
 #+CAPTION: 知识的进化
 #+ATTR_HTML: :style width:600px
-[[file:./img/pics/study.jpg]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/pics/study.jpg]]
 #+END_QUOTE
 
 ***** 知识的类型划分
 #+BEGIN_QUOTE
 #+CAPTION: 知识的类型划分
 #+ATTR_HTML: :style width:600px
-[[file:./img/pics/knowleges_types.jpg]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/pics/knowleges_types.jpg]]
 #+END_QUOTE
 
 ***** 提肛小助手
 #+BEGIN_QUOTE
 #+CAPTION: 提肛小助手
 #+ATTR_HTML: :style width:600px
-[[file:./img/pics/tigang.gif]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/pics/tigang.gif]]
 #+END_QUOTE
 
 ***** 学历和能力
 #+BEGIN_QUOTE
 #+CAPTION: 学历和能力
 #+ATTR_HTML: :style width:600px
-[[file:./img/pics/xueli_nengli.jpg]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/pics/xueli_nengli.jpg]]
 #+END_QUOTE
 
 ***** 开源项目的真实情况
 #+BEGIN_QUOTE
 #+CAPTION: 开源项目的真实情况
 #+ATTR_HTML: :style width:600px
-[[file:./img/pics/os_prj.jpg]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/pics/os_prj.jpg]]
 #+END_QUOTE
 
 ***** 止损的重要性
 #+BEGIN_QUOTE
 #+CAPTION: 止损的重要性
 #+ATTR_HTML: :style width:600px
-[[file:./img/pics/stepping_away.png]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/pics/stepping_away.png]]
 #+END_QUOTE
 
 ***** 标准普尔家庭配置象限图
 #+BEGIN_QUOTE
 #+CAPTION: 标准普尔家庭配置象限图
 #+ATTR_HTML: :style width:600px
-[[file:./img/pics/puer.png]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/pics/puer.png]]
 #+END_QUOTE
 
 ***** 新年祝福
 #+BEGIN_QUOTE
 #+CAPTION: 新年祝福
 #+ATTR_HTML: :style width:600px
-[[file:./img/pics/happy_new_year.jpeg]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/pics/happy_new_year.jpeg]]
 #+END_QUOTE
 
 ***** 我做事的方式
 #+BEGIN_QUOTE
 #+CAPTION: 我做事的方式
 #+ATTR_HTML: :style width:600px
-[[file:./img/pics/thewayido.png]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/pics/thewayido.png]]
 #+END_QUOTE
 
 ***** 不同“知识”模型
@@ -77,5 +77,5 @@
 #+BEGIN_QUOTE
 #+CAPTION: 不同“知识”模型
 #+ATTR_HTML: :style width:600px
-[[file:./img/pics/road_of_study.png]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/pics/road_of_study.png]]
 #+END_QUOTE

@@ -65,7 +65,7 @@ Astley Cooper 在 1840 年首次描述了从乳房下方深筋膜贯穿乳腺组
 #+BEGIN_QUOTE
 #+CAPTION: 乳房结构
 #+ATTR_HTML: :style width:600px
-[[file:../img/nous/05_breast.jpg]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/nous/05_breast.jpg]]
 #+END_QUOTE
 
 ***** 痛经、月经止痛

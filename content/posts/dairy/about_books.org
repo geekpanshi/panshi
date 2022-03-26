@@ -8,7 +8,7 @@
 
 #+CAPTION: 磐石读书会
 #+ATTR_HTML: :style width:200px
-[[file:./../img/books/panshidushuhui.png]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/books/panshidushuhui.png]]
 #+END_QUOTE
 
 ***** 序言
@@ -17,7 +17,7 @@
 
 #+CAPTION: 序言
 #+ATTR_HTML: :style width:200px
-[[file:./../img/books/xuyan.jpg]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/books/xuyan.jpg]]
 #+END_QUOTE
 
 ***** 读书荐书说明
