@@ -2,16 +2,22 @@
 #+AUTHOR: panshishuo
 #+date: <2021-12-29 06:09>
 
-***** 学习技术的建议
+**** 学习技术的建议
 1. 学 TCP/IP，把 Nmap 和 Hping 的手册看一遍。
 2. 学 HTTP，把 Curl 的手册看一遍。
 3. 学 SQL 注入，把 SQLmap 的手册看一遍。
 4. 学 WEB 前端安全，把 BeEF 的手册看一遍。
 
-***** Restful 思考
+**** 国内软件开发现状
+
+国内很多公司的组织效率有问题、导致软件工程师白天不停地被打断，杂事一大堆，只能晚上加班。所以软件工程师圈子里流传一句话：我们熬夜工作，不是因为晚上有灵感，而是因为白天的碌碌无为，引发了愧疚感。
+
+《代码大全》这本书里有句话说得特别好：“几乎所有人都会混涌行动与进展，混淆忙碌与多产。”实际上并不是我们行动了就会有进展，我们忙起来就会有产出，要想改善 996 问题，国内公司应该在组织管理上多下点功夫。
+
+**** Restful 思考
 1. API 的“指令类参数”，一定要和其它参数分割开来，最好是独立的参数，并且只能接受常量。比如格式化串 API 的格式参数，不接受变量。
 
-***** 瑞士军刀系列
+**** 瑞士军刀系列
 - [[https://stedolan.github.io/jq/][jq]] [[https://mikefarah.gitbook.io/yq/][yq]] awk sed grep
 - [[https://command-not-found.com/][command-not-found.com]]
 - [[https://starship.rs/][starship 跨平台 shell]]
@@ -19,19 +25,28 @@
 - [[https://ide.onelang.io/?input=HelloWorldRaw][一个帮助同时编写多种语言的代码的工具]]
 - [[https://bazinga.tools/][Welcome to Bazinga.tools!]]
 
-***** 编程学习
+**** 编程学习
 - [[https://visualgo.net/zh/][数据结构和算法动态可视化]]
 - [[https://algo.itcharge.cn/][算法通关手册（LeetCode）]]
 - [[https://octave-online.net/][octave-online]]
 - [[https://ccbv.co.uk/projects/Django/4.0/][Django 4.0 python cheetsheet]]
 
-***** Windows 不格式化磁盘的情况下安全删除文件
+**** Windows 不格式化磁盘的情况下安全删除文件
 Windows 的 Format 命令已经支持安全擦除整个分区。Format 命令加上 /P 参数后，就会把每个扇区先清零，再用随机数覆盖。而且可以覆盖多次。比如“format D: /P:8”就表示把 D 盘用随机数覆盖 8 次。
 
 那如何用 Windows 自带功能在不格式化磁盘的情况下安全删除文件呢？Cipher 命令本来是用于磁盘加密的，但有个 /W 参数可对磁盘上未使用的空间进行覆盖。比如你刚刚删除了 D:\Private 目录下的几个文件，那么执行一下“cipher /w:D:\Private”。D 盘上未使用空间就会被覆盖三次：一次 0x00、一次 0xFF，一次随机数。所有被删除的文件就都不可能被恢复了。
 
-***** 工具软件
-
+**** 工具软件
 - [[https://alacritty.org/][Alacritty]]
 - [[https://tabby.sh/][A terminal for the modern age]]
 - [[https://mobaxterm.mobatek.net/][MobaXterm]]
+- [[https://filext.com/][文件扩展名和转换大全]]
+- [[https://neatnik.net/view-source/][网页代码查看]]
+- [[https://dot-to-ascii.ggerganov.com/][dot-to-ascii]]
+- [[https://vimcolorschemes.com/][Vim 主题]]
+
+
+**** 自建网站相关
+- [[https://www.kengrimes.com/ox-hugo-tutorial/][使用 Hugo 和 ox-hugo Org 模式建立准系统网站的过程]]
+- [[https://github.com/dillonzq/LoveIt][LoveIt Theme | Hugo]]
+- [[https://limboy.me/posts/logseq/][我的 Logseq 使用习惯]]

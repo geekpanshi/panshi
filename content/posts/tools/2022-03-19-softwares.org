@@ -2,7 +2,19 @@
 #+AUTHOR: panshishuo
 #+date: <2021-12-01 18:15>
 
-****** 全平台支持
+**** 全平台支持
 
 - [[https://www.raycast.com/][启动器管理]]
 - [[http://www.filecxx.com/zh_CN/index.html][文件蜈蚣是一个增强特性的网络文件下载管理器]]
+
+**** 终端软件
+
+- [[https://sw.kovidgoyal.net/kitty/][kitty]]
+- [[https://alacritty.org/][Alacritty]]
+- [[https://iterm2.com/][iTerm]]
+- [[https://wezfurlong.org/wezterm/][WezTerm]]
+
+- [[https://ish.app/][iSH The Linux shell for iOS.]]
+- [[https://termux.com/][Termux is an Android terminal emulator and Linux environment app]]
+
+- [[https://github.com/microsoft/terminal][Windows Terminal]]

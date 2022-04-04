@@ -2,10 +2,26 @@
 #+AUTHOR: panshishuo
 #+date: <2022-02-20 07:30>
 
-***** 电子书网站
+**** 电子书网站
 
 - [[https://bookfere.com/][书伴 —— 为静心阅读而生]]
-- [[https://zh.b-ok.com/][Z-Library 项目部分. 全球最大的数字图书馆]] [[https://zh.z-lib.org/][备份链接]]
+- [[https://elib.cc/][目前发现最齐全的盗版图书下载网站 电子书]]
 
-***** 计算机类
+    目前发现最齐全的盗版图书下载网站，需要用发邮件的方式注册账号。登陆后可以下载，搜索极快。 https://elib.cc/register
+
+    邮箱发送主题为 signup 的邮件到 auth@elib.cc ，既可以收到注册成功的信息（包含初始密码），登陆后修改密码即可。
+
+***** Z-Library
+- [[https://zh.b-ok.com/][Z-Library 项目部分. 全球最大的数字图书馆]]
+- [[https://zh.z-lib.org/][备链]]
+- [[https://zh.fr1lib.org/][备链]]
+- [[https://zh.u1lib.org/][备链]]
+- [[https://zh.singlelogin.me/][备链]]
+- [[https://1lib.domains/?redirectUrl=/][备链]]
+- [[https://1lib.tw/][备链]]
+- [[https://en.ua1lib.org/][备链]]
+- [[https://en.de1lib.org/][备链]]
+- [[https://zlibrary.org/][备链]]
+
+**** 计算机类
 - [[https://pocorgtfo.hacke.rs/][Archives of POC||GTFO]]

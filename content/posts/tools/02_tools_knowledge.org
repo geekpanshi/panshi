@@ -44,9 +44,16 @@
 - [[https://hao.shejidaren.com/][好设计大人]]
 - [[https://macosicons.com/][macOS App icons]]
 - [[https://www.checklist.design/][Checklist Design - A collection of the best design practices.]]
+- [[https://component.gallery/][组件库设计相关]]
 
 ***** 教育网站
 - [[https://www.mathgames.com/][学习数学的网站]]
 
 ***** 娱乐类
 - [[https://poki.com/][Poki —— 在线游戏]]
+- [[https://www.hifini.com/][HiFini 音乐下载]]
+- [[https://imgflip.com/][表情包制作]]
+
+***** 接口工具
+- [[https://www.free-api.com/][免费 API 接口大全]]
+- [[https://www.m3o.com/][免费 API ：Everything as a Service]]
