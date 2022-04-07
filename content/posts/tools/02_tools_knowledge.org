@@ -45,6 +45,8 @@
 - [[https://macosicons.com/][macOS App icons]]
 - [[https://www.checklist.design/][Checklist Design - A collection of the best design practices.]]
 - [[https://component.gallery/][组件库设计相关]]
+- [[https://excalidraw.com/][在线画图软件]]
+- [[https://icones.js.org/][图标 Icon Explorer with Instant searching, powered by Iconify]]
 
 ***** 教育网站
 - [[https://www.mathgames.com/][学习数学的网站]]

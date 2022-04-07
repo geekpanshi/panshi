@@ -24,12 +24,17 @@
 - [[https://www.m3o.com/][一个快速集成 API 到你项目的网站]]
 - [[https://ide.onelang.io/?input=HelloWorldRaw][一个帮助同时编写多种语言的代码的工具]]
 - [[https://bazinga.tools/][Welcome to Bazinga.tools!]]
+- [[https://toolbox.googleapps.com/apps/main/][谷歌工具 Google Admin Toolbox]]
+- [[https://sqliteviewer.app/][SQLite Viewer Web sqlite 查看器]]
 
 **** 编程学习
 - [[https://visualgo.net/zh/][数据结构和算法动态可视化]]
 - [[https://algo.itcharge.cn/][算法通关手册（LeetCode）]]
 - [[https://octave-online.net/][octave-online]]
 - [[https://ccbv.co.uk/projects/Django/4.0/][Django 4.0 python cheetsheet]]
+- [[https://pimbook.org/][程序员的数学课]]
+- [[https://helloworldcollection.de/][helloworld 大全 —— The Hello World Collection]]
+- [[http://www.wolfram.com/language/fast-introduction-for-programmers/zh/][Wolfram 语言]]
 
 **** Windows 不格式化磁盘的情况下安全删除文件
 Windows 的 Format 命令已经支持安全擦除整个分区。Format 命令加上 /P 参数后，就会把每个扇区先清零，再用随机数覆盖。而且可以覆盖多次。比如“format D: /P:8”就表示把 D 盘用随机数覆盖 8 次。
@@ -40,11 +45,11 @@ Windows 的 Format 命令已经支持安全擦除整个分区。Format 命令加
 - [[https://alacritty.org/][Alacritty]]
 - [[https://tabby.sh/][A terminal for the modern age]]
 - [[https://mobaxterm.mobatek.net/][MobaXterm]]
+- [[https://hackingcpp.com/cpp/cheat_sheets.html][hacking C++ Cheat Sheets & Infographics]]
 - [[https://filext.com/][文件扩展名和转换大全]]
 - [[https://neatnik.net/view-source/][网页代码查看]]
 - [[https://dot-to-ascii.ggerganov.com/][dot-to-ascii]]
 - [[https://vimcolorschemes.com/][Vim 主题]]
-
 
 **** 自建网站相关
 - [[https://www.kengrimes.com/ox-hugo-tutorial/][使用 Hugo 和 ox-hugo Org 模式建立准系统网站的过程]]
