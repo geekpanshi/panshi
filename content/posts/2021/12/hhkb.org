@@ -46,7 +46,7 @@ Happy Hacking Keyboard（缩写为 HHKB）是由株式会社 PFU（富士通的�
 | ON   | ON   | --（未使用）                 |
 
 ***** 我的 HHKB 改键
-我的 dip 设置 —— macOS  =010111= 、 Windows =010001= 。
+我的 dip 设置 —— macOS  =010001= 、 Windows =101001= 。
 #+BEGIN_QUOTE
 #+CAPTION: 我的 HHKB HYBRID TYPE-S 改键（for macOS）
 #+ATTR_HTML: :style width:600px
