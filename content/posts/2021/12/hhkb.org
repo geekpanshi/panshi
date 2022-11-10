@@ -45,20 +45,26 @@ Happy Hacking Keyboard（缩写为 HHKB）是由株式会社 PFU（富士通的�
 | OFF  | ON   | Macintosh                    |
 | ON   | ON   | --（未使用）                 |
 
-***** 我的 HHKB 改键
-我的 dip 设置 —— macOS  =010001= 、 Windows =101001= 。
-#+BEGIN_QUOTE
-#+CAPTION: 我的 HHKB HYBRID TYPE-S 改键（for macOS）
-#+ATTR_HTML: :style width:600px
-[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/hhkb/005_hhkb-myconfig.jpg]]
-#+END_QUOTE
-
 ***** HHKB [Fn] 按键使用说明
 
 #+BEGIN_QUOTE
 #+CAPTION: HHKB [Fn] 按键使用说明
 #+ATTR_HTML: :style width:600px
 [[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/hhkb/007_hhkb_keys.jpg]]
+#+END_QUOTE
+
+***** 我的 HHKB 改键
+我的 dip 设置 —— macOS  =010001= 、 Windows =101101= 。
+#+BEGIN_QUOTE
+#+CAPTION: 我的 HHKB HYBRID TYPE-S 改键（for macOS）
+#+ATTR_HTML: :style width:600px
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/hhkb/005_hhkb-myconfig-mac.jpg]]
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+#+CAPTION: 我的 HHKB HYBRID TYPE-S 改键（for Windows）
+#+ATTR_HTML: :style width:600px
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/hhkb/008_hhkb-myconfig-win.jpg]]
 #+END_QUOTE
 
 ***** HHKB professional hybrid 说明书
