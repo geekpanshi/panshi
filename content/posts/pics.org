@@ -79,3 +79,27 @@
 #+ATTR_HTML: :style width:600px
 [[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/pics/road_of_study.png]]
 #+END_QUOTE
+
+***** 不同项目管理模型的对比
+项目管理并没有银弹，不同项目管理的差别本质不大。
+#+BEGIN_QUOTE
+#+CAPTION: 不同项目管理模型的对比
+#+ATTR_HTML: :style width:600px
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/pics/pmvs.jpg]]
+#+END_QUOTE
+
+***** 遛狗还是被狗遛？
+到底我们是爱好的主人，还是爱好是我们的主人？别被爱好左右了自己的人生。
+#+BEGIN_QUOTE
+#+CAPTION: 遛狗还是被狗遛
+#+ATTR_HTML: :style width:600px
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/pics/aihao.jpg]]
+#+END_QUOTE
+
+***** 我们与世界的关系
+世界（组织、公司）有没有我们都可以！但是我们的家人没有我们怎么办？
+#+BEGIN_QUOTE
+#+CAPTION: 我们与世界的关系
+#+ATTR_HTML: :style width:600px
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/pics/earth_has_you.jpg]]
+#+END_QUOTE
