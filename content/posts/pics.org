@@ -1,12 +1,12 @@
 #+title: 图片合集
 #+AUTHOR: panshishuo
-#+date: <2022-1-3 22:57>
+#+date: <2023-12-24 18:39>
 
-***** 2023 年年历
+***** 2024 年年历
 #+BEGIN_QUOTE
-#+CAPTION: 2023 年年历
+#+CAPTION: 2024 年年历
 #+ATTR_HTML: :style width:600px
-[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/index/2023_calc.png]]
+[[file:https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/img/index/2024_calc.png]]
 #+END_QUOTE
 
 ***** 此刻的改变就是未来的可能
