@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN" xml:lang="zh-CN">
+<head>
+<!-- 2024-03-25 Mon 00:00 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Linux 命令集锦</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="panshishuo" />
+<link rel="icon" href="/panshi/favicon.ico" type="image/vnd.microsoft.icon"/><link rel="stylesheet" type="text/css" href="/panshi/style.css"/>
+</head>
+<body>
+<div id="preamble" class="status">
+<div id="org-div-home-and-up">
+ <a accesskey="h" href="/panshi/sitemap.html"> 索引 </a>
+ |
+ <a accesskey="H" href="/panshi"> 主页 </a>
+ |
+ <a accesskey="" href="/panshi/pics.html"> 图集 </a>
+ |
+ <a accesskey="" href="https://github.com/xingangshi" target="_blank"> GITHUB </a>
+ |
+ <a accesskey="" href="https://www.shixingang.com/diary/" target="_blank"> 随笔 </a>
+ |
+ <a accesskey="" href="https://www.geekpanshi.com/" target="_blank"> 旧博客 </a>
+ |
+ <a><input type="text" class="st-default-search-input" placeholder="站内搜索..."/></a>
+</div>
+<script type="text/javascript">
+  (function(w,d,t,u,n,s,e){w['SwiftypeObject']=n;w[n]=w[n]||function(){
+  (w[n].q=w[n].q||[]).push(arguments);};s=d.createElement(t);
+  e=d.getElementsByTagName(t)[0];s.async=1;s.src=u;e.parentNode.insertBefore(s,e);
+  })(window,document,'script','//s.swiftypecdn.com/install/v2/st.js','_st');
+
+  _st('install','-7xxk_zZkMGeYu7EHZqk','2.0.0');
+</script>
+
+<script src="https://cdn.bootcss.com/vue/2.6.11/vue.min.js"></script>
+</div>
+<div id="content">
+<h1 class="title">Linux 命令集锦</h1>
+<div id="table-of-contents">
+<h2>&#30446;&#24405;</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgef9644f">How to install dig on Debian</a></li>
+<li><a href="#org30fa00d">Win10 计算文件 md5</a></li>
+<li><a href="#org133ef61">50 个 Linux 常用命令</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgef9644f" class="outline-2">
+<h2 id="orgef9644f">How to install dig on Debian</h2>
+<div class="outline-text-2" id="text-orgef9644f">
+<div class="org-src-container">
+<pre class="src src-sh">sudo apt install dnsutils
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org30fa00d" class="outline-2">
+<h2 id="org30fa00d">Win10 计算文件 md5</h2>
+<div class="outline-text-2" id="text-org30fa00d">
+<p>
+Win10 下 PowerShell 或 命令行 计算文件 MD5
+</p>
+<div class="org-src-container">
+<pre class="src src-sh">CertUtil -hashfile &lt;path to file&gt; MD5
+</pre>
+</div>
+
+<p>
+Windows 系统 命令行 查看帮助
+</p>
+<div class="org-src-container">
+<pre class="src src-sh">CertUtil /?
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org133ef61" class="outline-2">
+<h2 id="org133ef61">50 个 Linux 常用命令</h2>
+<div class="outline-text-2" id="text-org133ef61">
+<table id="org06c20a9" border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<caption class="t-above"><span class="table-number">&#34920;1&nbsp;</span> 50 个 Linux 常用命令</caption>
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">1</th>
+<th scope="col" class="org-left">2</th>
+<th scope="col" class="org-left">3</th>
+<th scope="col" class="org-left">4</th>
+<th scope="col" class="org-left">5</th>
+<th scope="col" class="org-left">6</th>
+<th scope="col" class="org-left">7</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">whoami</td>
+<td class="org-left">man</td>
+<td class="org-left">clear</td>
+<td class="org-left">pwd</td>
+<td class="org-left">ls</td>
+<td class="org-left">cd</td>
+<td class="org-left">mkdir</td>
+</tr>
+
+<tr>
+<td class="org-left">touch</td>
+<td class="org-left">rmdir</td>
+<td class="org-left">rm</td>
+<td class="org-left">open</td>
+<td class="org-left">mv</td>
+<td class="org-left">cp</td>
+<td class="org-left">head</td>
+</tr>
+
+<tr>
+<td class="org-left">tail</td>
+<td class="org-left">date</td>
+<td class="org-left">cat</td>
+<td class="org-left">less</td>
+<td class="org-left">echo</td>
+<td class="org-left">wc</td>
+<td class="org-left">piping</td>
+</tr>
+
+<tr>
+<td class="org-left">sort</td>
+<td class="org-left">uniq</td>
+<td class="org-left">diff</td>
+<td class="org-left">find</td>
+<td class="org-left">grep</td>
+<td class="org-left">du</td>
+<td class="org-left">df</td>
+</tr>
+
+<tr>
+<td class="org-left">history</td>
+<td class="org-left">ps</td>
+<td class="org-left">top</td>
+<td class="org-left">kill</td>
+<td class="org-left">killall</td>
+<td class="org-left">jobs</td>
+<td class="org-left">fg</td>
+</tr>
+
+<tr>
+<td class="org-left">bg</td>
+<td class="org-left">gzip</td>
+<td class="org-left">gunzip</td>
+<td class="org-left">tar</td>
+<td class="org-left">nano</td>
+<td class="org-left">alias</td>
+<td class="org-left">xargs</td>
+</tr>
+
+<tr>
+<td class="org-left">ln</td>
+<td class="org-left">who</td>
+<td class="org-left">su</td>
+<td class="org-left">sudo</td>
+<td class="org-left">passwd</td>
+<td class="org-left">chown</td>
+<td class="org-left">chmod</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<hr/>
+<script src="https://utteranc.es/client.js"
+    repo="geekpanshi/apc"
+    issue-term="pathname"
+    label="apc"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+</script>
+<hr/>
+<p >标题：Linux 命令集锦</p>
+<p class="date">日期：2024-03-25 Mon 00:00</p>
+<p class="author">作者：<a href="https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/images/about/dx17wGO.png">磐石说</a></p>
+<p class="creator">© 2018 – 2023 <a href="https://github.com/geekpanshi">GeekPanshi</a> (<a href="https://www.shixingang.com/">shixingang</a>)</p>
+<p class="validation"></p>
+</div>
+</body>
+</html>

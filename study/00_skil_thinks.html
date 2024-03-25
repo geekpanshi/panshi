@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN" xml:lang="zh-CN">
+<head>
+<!-- 2024-03-25 Mon 00:00 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>技术学习的思考和总结</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="panshishuo" />
+<link rel="icon" href="/panshi/favicon.ico" type="image/vnd.microsoft.icon"/><link rel="stylesheet" type="text/css" href="/panshi/style.css"/>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body>
+<div id="preamble" class="status">
+<div id="org-div-home-and-up">
+ <a accesskey="h" href="/panshi/sitemap.html"> 索引 </a>
+ |
+ <a accesskey="H" href="/panshi"> 主页 </a>
+ |
+ <a accesskey="" href="/panshi/pics.html"> 图集 </a>
+ |
+ <a accesskey="" href="https://github.com/xingangshi" target="_blank"> GITHUB </a>
+ |
+ <a accesskey="" href="https://www.shixingang.com/diary/" target="_blank"> 随笔 </a>
+ |
+ <a accesskey="" href="https://www.geekpanshi.com/" target="_blank"> 旧博客 </a>
+ |
+ <a><input type="text" class="st-default-search-input" placeholder="站内搜索..."/></a>
+</div>
+<script type="text/javascript">
+  (function(w,d,t,u,n,s,e){w['SwiftypeObject']=n;w[n]=w[n]||function(){
+  (w[n].q=w[n].q||[]).push(arguments);};s=d.createElement(t);
+  e=d.getElementsByTagName(t)[0];s.async=1;s.src=u;e.parentNode.insertBefore(s,e);
+  })(window,document,'script','//s.swiftypecdn.com/install/v2/st.js','_st');
+
+  _st('install','-7xxk_zZkMGeYu7EHZqk','2.0.0');
+</script>
+
+<script src="https://cdn.bootcss.com/vue/2.6.11/vue.min.js"></script>
+</div>
+<div id="content">
+<h1 class="title">技术学习的思考和总结</h1>
+<div id="table-of-contents">
+<h2>&#30446;&#24405;</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org2f23328">学习技术的建议</a></li>
+<li><a href="#orgbe852a8">国内软件开发现状</a></li>
+<li><a href="#org17eae78">Restful 思考</a></li>
+<li><a href="#org716e7d9">瑞士军刀系列</a></li>
+<li><a href="#orgedc7216">编程学习</a></li>
+<li><a href="#org125e3b2">Windows 不格式化磁盘的情况下安全删除文件</a></li>
+<li><a href="#orga6104af">工具软件</a></li>
+<li><a href="#org4033f94">自建网站相关</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org2f23328" class="outline-2">
+<h2 id="org2f23328">学习技术的建议</h2>
+<div class="outline-text-2" id="text-org2f23328">
+<ol class="org-ol">
+<li>学 TCP/IP，把 Nmap 和 Hping 的手册看一遍。</li>
+<li>学 HTTP，把 Curl 的手册看一遍。</li>
+<li>学 SQL 注入，把 SQLmap 的手册看一遍。</li>
+<li>学 WEB 前端安全，把 BeEF 的手册看一遍。</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orgbe852a8" class="outline-2">
+<h2 id="orgbe852a8">国内软件开发现状</h2>
+<div class="outline-text-2" id="text-orgbe852a8">
+<p>
+国内很多公司的组织效率有问题、导致软件工程师白天不停地被打断，杂事一大堆，只能晚上加班。所以软件工程师圈子里流传一句话：我们熬夜工作，不是因为晚上有灵感，而是因为白天的碌碌无为，引发了愧疚感。
+</p>
+
+<p>
+《代码大全》这本书里有句话说得特别好：“几乎所有人都会混涌行动与进展，混淆忙碌与多产。”实际上并不是我们行动了就会有进展，我们忙起来就会有产出，要想改善 996 问题，国内公司应该在组织管理上多下点功夫。
+</p>
+</div>
+</div>
+
+<div id="outline-container-org17eae78" class="outline-2">
+<h2 id="org17eae78">Restful 思考</h2>
+<div class="outline-text-2" id="text-org17eae78">
+<ol class="org-ol">
+<li>API 的“指令类参数”，一定要和其它参数分割开来，最好是独立的参数，并且只能接受常量。比如格式化串 API 的格式参数，不接受变量。</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org716e7d9" class="outline-2">
+<h2 id="org716e7d9">瑞士军刀系列</h2>
+<div class="outline-text-2" id="text-org716e7d9">
+<ul class="org-ul">
+<li><a href="https://stedolan.github.io/jq/">jq</a> <a href="https://mikefarah.gitbook.io/yq/">yq</a> awk sed grep</li>
+<li><a href="https://command-not-found.com/">command-not-found.com</a></li>
+<li><a href="https://starship.rs/">starship 跨平台 shell</a></li>
+<li><a href="https://www.m3o.com/">一个快速集成 API 到你项目的网站</a></li>
+<li><a href="https://ide.onelang.io/?input=HelloWorldRaw">一个帮助同时编写多种语言的代码的工具</a></li>
+<li><a href="https://bazinga.tools/">Welcome to Bazinga.tools!</a></li>
+<li><a href="https://toolbox.googleapps.com/apps/main/">谷歌工具 Google Admin Toolbox</a></li>
+<li><a href="https://sqliteviewer.app/">SQLite Viewer Web sqlite 查看器</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgedc7216" class="outline-2">
+<h2 id="orgedc7216">编程学习</h2>
+<div class="outline-text-2" id="text-orgedc7216">
+<ul class="org-ul">
+<li><a href="https://visualgo.net/zh/">数据结构和算法动态可视化</a></li>
+<li><a href="https://algo.itcharge.cn/">算法通关手册（LeetCode）</a></li>
+<li><a href="https://octave-online.net/">octave-online</a></li>
+<li><a href="https://ccbv.co.uk/projects/Django/4.0/">Django 4.0 python cheetsheet</a></li>
+<li><a href="https://pimbook.org/">程序员的数学课</a></li>
+<li><a href="https://helloworldcollection.de/">helloworld 大全 —— The Hello World Collection</a></li>
+<li><a href="http://www.wolfram.com/language/fast-introduction-for-programmers/zh/">Wolfram 语言</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org125e3b2" class="outline-2">
+<h2 id="org125e3b2">Windows 不格式化磁盘的情况下安全删除文件</h2>
+<div class="outline-text-2" id="text-org125e3b2">
+<p>
+Windows 的 Format 命令已经支持安全擦除整个分区。Format 命令加上 /P 参数后，就会把每个扇区先清零，再用随机数覆盖。而且可以覆盖多次。比如“format D: /P:8”就表示把 D 盘用随机数覆盖 8 次。
+</p>
+
+<p>
+那如何用 Windows 自带功能在不格式化磁盘的情况下安全删除文件呢？Cipher 命令本来是用于磁盘加密的，但有个 /W 参数可对磁盘上未使用的空间进行覆盖。比如你刚刚删除了 D:\Private 目录下的几个文件，那么执行一下“cipher /w:D:\Private”。D 盘上未使用空间就会被覆盖三次：一次 0x00、一次 0xFF，一次随机数。所有被删除的文件就都不可能被恢复了。
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga6104af" class="outline-2">
+<h2 id="orga6104af">工具软件</h2>
+<div class="outline-text-2" id="text-orga6104af">
+<ul class="org-ul">
+<li><a href="https://alacritty.org/">Alacritty</a></li>
+<li><a href="https://tabby.sh/">A terminal for the modern age</a></li>
+<li><a href="https://mobaxterm.mobatek.net/">MobaXterm</a></li>
+<li><a href="https://hackingcpp.com/cpp/cheat_sheets.html">hacking C++ Cheat Sheets &amp; Infographics</a></li>
+<li><a href="https://filext.com/">文件扩展名和转换大全</a></li>
+<li><a href="https://neatnik.net/view-source/">网页代码查看</a></li>
+<li><a href="https://dot-to-ascii.ggerganov.com/">dot-to-ascii</a></li>
+<li><a href="https://vimcolorschemes.com/">Vim 主题</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org4033f94" class="outline-2">
+<h2 id="org4033f94">自建网站相关</h2>
+<div class="outline-text-2" id="text-org4033f94">
+<ul class="org-ul">
+<li><a href="https://www.kengrimes.com/ox-hugo-tutorial/">使用 Hugo 和 ox-hugo Org 模式建立准系统网站的过程</a></li>
+<li><a href="https://github.com/dillonzq/LoveIt">LoveIt Theme | Hugo</a></li>
+<li><a href="https://limboy.me/posts/logseq/">我的 Logseq 使用习惯</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<hr/>
+<script src="https://utteranc.es/client.js"
+    repo="geekpanshi/apc"
+    issue-term="pathname"
+    label="apc"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+</script>
+<hr/>
+<p >标题：技术学习的思考和总结</p>
+<p class="date">日期：2024-03-25 Mon 00:00</p>
+<p class="author">作者：<a href="https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/images/about/dx17wGO.png">磐石说</a></p>
+<p class="creator">© 2018 – 2023 <a href="https://github.com/geekpanshi">GeekPanshi</a> (<a href="https://www.shixingang.com/">shixingang</a>)</p>
+<p class="validation"></p>
+</div>
+</body>
+</html>
